@@ -1,0 +1,61 @@
+## Hi, I'm Nicolas 👋
+
+Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a [Timber](https://github.com/timber/timber) maintainer.
+
+### 🏢 Projects
+
+Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
+
+{% set projects = {
+    'WordPress': [
+        'nlemoine/page-for-custom-post-type',
+        'nlemoine/wp-hook-kit',
+        'nlemoine/timber-dump-extension',
+        'nlemoine/wp-symfony-local-server',
+        'nlemoine/acf-country',
+        'nlemoine/wp-cli-move',
+        'nlemoine/wp-cli-fixtures',
+    ],
+    'Timber': [
+        'timber/timber',
+        'timber/wp-i18n-twig',
+    ],
+    'PHP': [
+        'nlemoine/http-cli',
+        'nlemoine/rangelog',
+        'nlemoine/local-bin-monorepo',
+    ],
+} %}
+{% for category, projectList in projects %}
+#### {{ category }}
+{% set repos = [] %}
+{% for project in projectList %}
+{% set repo = me.repo(project) %}
+{% set repos = repos|merge([repo]) %}
+{% endfor %}
+{% for repo in repos|sortBy('pushedAt', 'desc') %}
+- [{{ repo.name }}]({{ repo.url }}) ([{{ repo.lastRelease.name }}]({{ repo.lastRelease.url }}) - {{ repo.lastRelease.publishedAt|timeAgo }}) {{ repo.description ? '— ' ~ repo.description : '' }}
+{% endfor %}
+{% endfor %}
+{# These live as packages inside the nlemoine/packages monorepo, not standalone repos, so me.repo() can't resolve them. #}
+#### JavaScript/TypeScript
+- [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
+- [@n5s/bruno-wordpress-converter](https://github.com/nlemoine/packages/tree/main/packages/bruno-wordpress-converter) — Convert a WordPress REST API into a Bruno collection
+
+### 🔨 My recent pull requests
+{# TODO: revisit — {{ stats.phpMergedPrs }} merged PRs across the PHP ecosystem — latest below: #}
+{% for pr in me.pullRequests({count: 15}) %}
+- [{{ pr.title }}]({{ pr.url }}) on [{{ pr.repoNameWithOwner }}]({{ pr.repoUrl }}) — {{ pr.createdAt|timeAgo }}
+{% endfor %}
+
+### 🤝 Recent contributions
+{% for contrib in me.contributions({source: ['external', 'org'], count: 20}) %}
+- [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — {{ contrib.commitCount|pluralize('commit', 'commits') }} — {{ contrib.occurredAt|timeAgo }}
+{% endfor %}
+
+### 🤩 Notable contributions
+{% for contrib in me.contributions({from: 2020, to: 2026, source: ['external'], count: 80})|sortBy('stargazerCount', 'desc')|slice(0, 20) %}
+- [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — ⭐ {{ contrib.stargazerCount }} · {{ contrib.commitCount|pluralize('commit', 'commits') }}
+{% endfor %}
+
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated {{ "now"|date('Y-m-d') }}</sub>

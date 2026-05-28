@@ -1,0 +1,50 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Daily 06:00 UTC (08:00 CEST / 07:00 CET local)
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  render:
+    name: Render README and open PR
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write # create-pull-request pushes the branch
+      pull-requests: write # create-pull-request opens the PR
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
+
+      - run: bun install --frozen-lockfile
+
+      # octofolio reads GITHUB_TOKEN to query the GitHub API for public profile data.
+      # This is a read-only classic PAT (OCTOFOLIO_TOKEN secret): reading public repos,
+      # PRs and contributions needs no scopes. Add `read:org` only if you belong to
+      # private orgs whose repos should count as "org" (not "external") contributions.
+      - name: Render README
+        env:
+          GITHUB_TOKEN: ${{ secrets.OCTOFOLIO_TOKEN }}
+        run: bun render-readme.ts
+
+      - name: Open PR with changes
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          commit-message: 'chore: update profile README'
+          title: 'Update profile README'
+          body: |
+            Automated refresh of `README.md`, generated from `README.md.twig` via
+            [octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio).
+          branch: chore/update-readme
+          add-paths: README.md
+          delete-branch: true
