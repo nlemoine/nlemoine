@@ -28,7 +28,6 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-81 merged PRs across the PHP ecosystem — latest below:
 - [perf(encoders): set web-tuned effort default (heif=1, webp=2)](https://github.com/Intervention/image-driver-vips/pull/113) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 5 days ago
 - [test(pagination): reduce fixture sizes via WithOption posts_per_page=2](https://github.com/timber/timber/pull/3258) on [timber/timber](https://github.com/timber/timber) — 6 days ago
 - [ci: harden GitHub Actions workflows](https://github.com/timber/timber/pull/3255) on [timber/timber](https://github.com/timber/timber) — 1 week ago
