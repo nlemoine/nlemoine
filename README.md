@@ -18,7 +18,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber](https://github.com/timber/timber) ([v2.4.1](https://github.com/timber/timber/releases/tag/v2.4.1) - 1 week ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 6 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
-- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.0](https://github.com/nlemoine/rangelog/releases/tag/1.1.0) - 19 hours ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
+- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.0](https://github.com/nlemoine/rangelog/releases/tag/1.1.0) - 1 day ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.0](https://github.com/nlemoine/http-cli/releases/tag/1.1.0) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 
@@ -28,8 +28,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [perf(encoders): set web-tuned effort default (heif=1, webp=2)](https://github.com/Intervention/image-driver-vips/pull/113) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 5 days ago
-- [test(pagination): reduce fixture sizes via WithOption posts_per_page=2](https://github.com/timber/timber/pull/3258) on [timber/timber](https://github.com/timber/timber) — 6 days ago
+- [ci: update composer PHP versions action to v2.1.0](https://github.com/timber/timber/pull/3259) on [timber/timber](https://github.com/timber/timber) — 21 hours ago
+- [perf(encoders): set web-tuned effort default (heif=1, webp=2)](https://github.com/Intervention/image-driver-vips/pull/113) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 6 days ago
+- [test(pagination): reduce fixture sizes via WithOption posts_per_page=2](https://github.com/timber/timber/pull/3258) on [timber/timber](https://github.com/timber/timber) — 1 week ago
 - [ci: harden GitHub Actions workflows](https://github.com/timber/timber/pull/3255) on [timber/timber](https://github.com/timber/timber) — 1 week ago
 - [fix: switch version property to constant and mark old property as deprecated](https://github.com/timber/timber/pull/3254) on [timber/timber](https://github.com/timber/timber) — 1 week ago
 - [chore: bump minimum WordPress version to 6.4](https://github.com/timber/timber/pull/3253) on [timber/timber](https://github.com/timber/timber) — 1 week ago
@@ -42,15 +43,14 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix(encoders): version-gate ForeignKeep::ALL for GAINMAP (libvips 8.18)](https://github.com/Intervention/image-driver-vips/pull/103) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [perf: drop redundant export-profile on resize-family modifiers](https://github.com/Intervention/image-driver-vips/pull/102) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [Stop Imagick contrast from lifting every pixel](https://github.com/Intervention/image/pull/1484) on [Intervention/image](https://github.com/Intervention/image) — 4 weeks ago
-- [Preserve alpha channel in Imagick invert modifier](https://github.com/Intervention/image/pull/1482) on [Intervention/image](https://github.com/Intervention/image) — 1 month ago
 
 ### 🤝 Recent contributions
-- [mindkomm/workflows](https://github.com/mindkomm/workflows) — 35 commits — 1 day ago
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 4 days ago
-- [timber/timber](https://github.com/timber/timber) — 49 commits — 6 days ago
+- [timber/timber](https://github.com/timber/timber) — 50 commits — 1 day ago
+- [mindkomm/workflows](https://github.com/mindkomm/workflows) — 35 commits — 2 days ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 5 days ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 2 weeks ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 3 weeks ago
-- [Intervention/image](https://github.com/Intervention/image) — 3 commits — 4 weeks ago
+- [Intervention/image](https://github.com/Intervention/image) — 3 commits — 1 month ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 1 month ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 2 months ago
 - [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 2 months ago
@@ -69,9 +69,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 ### 🤩 Notable contributions
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31060 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18817 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15783 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14337 · 3 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11062 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15784 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14339 · 3 commits
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11063 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8361 · 1 commit
 - [h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache) — ⭐ 3253 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2634 · 2 commits
@@ -88,4 +88,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 402 · 4 commits
 - [roots/bud](https://github.com/roots/bud) — ⭐ 347 · 2 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-05-28</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-05-29</sub>
