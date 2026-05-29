@@ -42,20 +42,29 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
 - [@n5s/bruno-wordpress-converter](https://github.com/nlemoine/packages/tree/main/packages/bruno-wordpress-converter) — Convert a WordPress REST API into a Bruno collection
 
+{# Repos to hide from PRs/contributions (e.g. private-ish org workflow repos). #}
+{% set excludeRepos = ['mindkomm/workflows'] %}
+
 ### 🔨 My recent pull requests
 {# TODO: revisit — {{ stats.phpMergedPrs }} merged PRs across the PHP ecosystem — latest below: #}
 {% for pr in me.pullRequests({count: 15}) %}
+{% if pr.repoNameWithOwner not in excludeRepos %}
 - [{{ pr.title }}]({{ pr.url }}) on [{{ pr.repoNameWithOwner }}]({{ pr.repoUrl }}) — {{ pr.createdAt|timeAgo }}
+{% endif %}
 {% endfor %}
 
 ### 🤝 Recent contributions
 {% for contrib in me.contributions({source: ['external', 'org'], count: 20}) %}
+{% if contrib.repoNameWithOwner not in excludeRepos %}
 - [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — {{ contrib.commitCount|pluralize('commit', 'commits') }} — {{ contrib.occurredAt|timeAgo }}
+{% endif %}
 {% endfor %}
 
 ### 🤩 Notable contributions
 {% for contrib in me.contributions({from: 2020, to: 2026, source: ['external'], count: 80})|sortBy('stargazerCount', 'desc')|slice(0, 20) %}
+{% if contrib.repoNameWithOwner not in excludeRepos %}
 - [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — ⭐ {{ contrib.stargazerCount }} · {{ contrib.commitCount|pluralize('commit', 'commits') }}
+{% endif %}
 {% endfor %}
 
 <sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated {{ "now"|date('Y-m-d') }}</sub>
