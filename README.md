@@ -7,7 +7,7 @@ Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a 
 Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
 
 #### WordPress
-- [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.0.1](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.0.1) - 4 weeks ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
+- [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 3 hours ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.0](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.0) - 5 months ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 2 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 - [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 5 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
@@ -30,6 +30,11 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
+- [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 43 minutes ago
+- [Improve Yoast SEO integration coverage; drop obsolete fixHomeBreadcrumbs](https://github.com/nlemoine/page-for-custom-post-type/pull/19) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 1 hour ago
+- [Preserve transparency when pasting with alpha on the Imagick driver](https://github.com/php-imagine/Imagine/pull/878) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 hours ago
+- [test(polylang): boot Polylang in the test bootstrap so its suite runs](https://github.com/nlemoine/page-for-custom-post-type/pull/18) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 hours ago
+- [Preserve alpha channel in Imagick negative effect](https://github.com/php-imagine/Imagine/pull/877) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 3 hours ago
 - [fix: Fix bug with WP version notice in admin](https://github.com/timber/timber/pull/3264) on [timber/timber](https://github.com/timber/timber) — 5 days ago
 - [fix: Bump twig/twig to ^3.27 for sandbox security fixes](https://github.com/timber/timber/pull/3261) on [timber/timber](https://github.com/timber/timber) — 5 days ago
 - [test: stop custom-upload-dir tests leaking into random-order runs](https://github.com/timber/timber/pull/3260) on [timber/timber](https://github.com/timber/timber) — 5 days ago
@@ -40,13 +45,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix: switch version property to constant and mark old property as deprecated](https://github.com/timber/timber/pull/3254) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 - [chore: bump minimum WordPress version to 6.4](https://github.com/timber/timber/pull/3253) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 - [fix(deps): Bump twig/twig to ^3.26 to address security advisories](https://github.com/timber/timber/pull/3250) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
-- [chore: Add changelog URL to support section in composer.json](https://github.com/mindkomm/timmy/pull/123) on [mindkomm/timmy](https://github.com/mindkomm/timmy) — 3 weeks ago
-- [fix(modifiers): materialise sequential sources before RotateModifier](https://github.com/Intervention/image-driver-vips/pull/110) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
-- [fix(modifiers): copy InsertModifier watermark before frame loop](https://github.com/Intervention/image-driver-vips/pull/107) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 4 weeks ago
-- [perf(cover): skip frame loop in CoverModifier for single-frame images](https://github.com/Intervention/image-driver-vips/pull/105) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 4 weeks ago
-- [perf(jpeg): only set background option when image has alpha](https://github.com/Intervention/image-driver-vips/pull/104) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 4 weeks ago
 
 ### 🤝 Recent contributions
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 commits — 5 hours ago
 - [timber/timber](https://github.com/timber/timber) — 54 commits — 5 days ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 1 week ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 3 weeks ago
@@ -65,17 +66,17 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — 7 commits — 7 months ago
 - [tokens-bruecke/figma-plugin](https://github.com/tokens-bruecke/figma-plugin) — 1 commit — 9 months ago
 - [publishpress/dev-workspace-docker-image](https://github.com/publishpress/dev-workspace-docker-image) — 1 commit — 9 months ago
-- [alleyinteractive/wp-environment-switcher](https://github.com/alleyinteractive/wp-environment-switcher) — 1 commit — 11 months ago
 
 ### 🤩 Notable contributions
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31056 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18820 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15789 · 3 commits
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18821 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15790 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14341 · 3 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11067 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8359 · 1 commit
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4476 · 2 commits
 - [h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache) — ⭐ 3253 · 2 commits
-- [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2634 · 2 commits
+- [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2635 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2297 · 2 commits
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1959 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1812 · 4 commits
@@ -87,6 +88,5 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 599 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 403 · 4 commits
-- [roots/bud](https://github.com/roots/bud) — ⭐ 347 · 2 commits
 
 <sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-03</sub>
