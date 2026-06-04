@@ -7,7 +7,7 @@ Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a 
 Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
 
 #### WordPress
-- [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 3 hours ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
+- [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 23 hours ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.0](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.0) - 5 months ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 2 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 - [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 5 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
@@ -15,10 +15,10 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.1](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.1) - 1 year ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [acf-country](https://github.com/nlemoine/acf-country) ([v3.0.1](https://github.com/nlemoine/acf-country/releases/tag/v3.0.1) - 2 years ago) — ACF Country field - Display a select field of all countries, in any language.
 #### Timber
-- [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 5 days ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
+- [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 6 days ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 6 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
-- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 2 days ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
+- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 3 days ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.0](https://github.com/nlemoine/http-cli/releases/tag/1.1.0) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 
@@ -30,15 +30,15 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 43 minutes ago
-- [Improve Yoast SEO integration coverage; drop obsolete fixHomeBreadcrumbs](https://github.com/nlemoine/page-for-custom-post-type/pull/19) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 1 hour ago
-- [Preserve transparency when pasting with alpha on the Imagick driver](https://github.com/php-imagine/Imagine/pull/878) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 hours ago
-- [test(polylang): boot Polylang in the test bootstrap so its suite runs](https://github.com/nlemoine/page-for-custom-post-type/pull/18) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 hours ago
-- [Preserve alpha channel in Imagick negative effect](https://github.com/php-imagine/Imagine/pull/877) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 3 hours ago
-- [fix: Fix bug with WP version notice in admin](https://github.com/timber/timber/pull/3264) on [timber/timber](https://github.com/timber/timber) — 5 days ago
-- [fix: Bump twig/twig to ^3.27 for sandbox security fixes](https://github.com/timber/timber/pull/3261) on [timber/timber](https://github.com/timber/timber) — 5 days ago
-- [test: stop custom-upload-dir tests leaking into random-order runs](https://github.com/timber/timber/pull/3260) on [timber/timber](https://github.com/timber/timber) — 5 days ago
-- [ci: update composer PHP versions action to v2.1.0](https://github.com/timber/timber/pull/3259) on [timber/timber](https://github.com/timber/timber) — 6 days ago
+- [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 21 hours ago
+- [Improve Yoast SEO integration coverage; drop obsolete fixHomeBreadcrumbs](https://github.com/nlemoine/page-for-custom-post-type/pull/19) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 21 hours ago
+- [Preserve transparency when pasting with alpha on the Imagick driver](https://github.com/php-imagine/Imagine/pull/878) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 22 hours ago
+- [test(polylang): boot Polylang in the test bootstrap so its suite runs](https://github.com/nlemoine/page-for-custom-post-type/pull/18) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 22 hours ago
+- [Preserve alpha channel in Imagick negative effect](https://github.com/php-imagine/Imagine/pull/877) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 23 hours ago
+- [fix: Fix bug with WP version notice in admin](https://github.com/timber/timber/pull/3264) on [timber/timber](https://github.com/timber/timber) — 6 days ago
+- [fix: Bump twig/twig to ^3.27 for sandbox security fixes](https://github.com/timber/timber/pull/3261) on [timber/timber](https://github.com/timber/timber) — 6 days ago
+- [test: stop custom-upload-dir tests leaking into random-order runs](https://github.com/timber/timber/pull/3260) on [timber/timber](https://github.com/timber/timber) — 6 days ago
+- [ci: update composer PHP versions action to v2.1.0](https://github.com/timber/timber/pull/3259) on [timber/timber](https://github.com/timber/timber) — 1 week ago
 - [perf(encoders): set web-tuned effort default (heif=1, webp=2)](https://github.com/Intervention/image-driver-vips/pull/113) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [test(pagination): reduce fixture sizes via WithOption posts_per_page=2](https://github.com/timber/timber/pull/3258) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 - [ci: harden GitHub Actions workflows](https://github.com/timber/timber/pull/3255) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
@@ -47,9 +47,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix(deps): Bump twig/twig to ^3.26 to address security advisories](https://github.com/timber/timber/pull/3250) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 
 ### 🤝 Recent contributions
-- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 commits — 5 hours ago
-- [timber/timber](https://github.com/timber/timber) — 54 commits — 5 days ago
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 1 week ago
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 commits — 1 day ago
+- [timber/timber](https://github.com/timber/timber) — 54 commits — 6 days ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 2 weeks ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 3 weeks ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 4 weeks ago
 - [Intervention/image](https://github.com/Intervention/image) — 3 commits — 1 month ago
@@ -68,16 +68,16 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [publishpress/dev-workspace-docker-image](https://github.com/publishpress/dev-workspace-docker-image) — 1 commit — 9 months ago
 
 ### 🤩 Notable contributions
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31056 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31058 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18821 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15790 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14341 · 3 commits
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15792 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14342 · 3 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11067 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8359 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4476 · 2 commits
 - [h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache) — ⭐ 3253 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2635 · 2 commits
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2297 · 2 commits
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 2 commits
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1959 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1812 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1638 · 1 commit
@@ -87,6 +87,6 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 599 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
-- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 403 · 4 commits
+- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 404 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-03</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-04</sub>
