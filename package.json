@@ -8,7 +8,7 @@
     "preview": "bun preview.ts"
   },
   "dependencies": {
-    "@n5s/octofolio": "^0.2.0",
+    "@n5s/octofolio": "^0.2.1",
     "@poppinss/dumper": "^0.7.0",
     "javascript-time-ago": "^2.6.4",
     "twig": "^3.0.0"

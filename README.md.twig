@@ -62,7 +62,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 {% endfor %}
 
 ### 🤩 Notable contributions
-{% for contrib in me.contributions({from: 2020, to: 2026, source: ['external'], count: 80})|sortBy('stargazerCount', 'desc')|slice(0, 20) %}
+{# +0 forces a number: date('Y') returns a string, but contributions() expects numeric from/to. #}
+{% set currentYear = "now"|date('Y') + 0 %}
+{% for contrib in me.contributions({from: currentYear - 5, to: currentYear, source: ['external'], count: 80})|sortBy('stargazerCount', 'desc')|slice(0, 20) %}
 {% if contrib.repoNameWithOwner not in excludeRepos %}
 - [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — ⭐ {{ contrib.stargazerCount }} · {{ contrib.commitCount|pluralize('commit', 'commits') }}
 {% endif %}
