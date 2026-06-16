@@ -25,6 +25,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 #### JavaScript/TypeScript
 - [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
 - [@n5s/bruno-wordpress-converter](https://github.com/nlemoine/packages/tree/main/packages/bruno-wordpress-converter) — Convert a WordPress REST API into a Bruno collection
+- [@n5s/unocss-preset-tokens](https://github.com/nlemoine/packages/tree/main/packages/unocss-preset-tokens) — UnoCSS preset that turns DTCG design tokens into theme utilities and CSS variables via Terrazzo
 
 
 
@@ -66,25 +67,26 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [tokens-bruecke/figma-plugin](https://github.com/tokens-bruecke/figma-plugin) — 1 commit — 9 months ago
 
 ### 🤩 Notable contributions
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31073 · 1 commit
+
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31074 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18844 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15804 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14345 · 3 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11077 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8362 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4474 · 4 commits
-- [h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache) — ⭐ 3252 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 2 commits
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1963 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1815 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
-- [spatie/image](https://github.com/spatie/image) — ⭐ 1360 · 4 commits
-- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1024 · 3 commits
+- [spatie/image](https://github.com/spatie/image) — ⭐ 1360 · 2 commits
+- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1024 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 599 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 407 · 4 commits
+- [roots/bud](https://github.com/roots/bud) — ⭐ 347 · 2 commits
 
 <sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-16</sub>
