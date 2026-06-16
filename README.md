@@ -18,6 +18,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 3 weeks ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 7 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 8 minutes ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 2 weeks ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.0](https://github.com/nlemoine/http-cli/releases/tag/1.1.0) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
@@ -31,6 +32,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
+- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 3 hours ago
+- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 4 hours ago
 - [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 4 days ago
 - [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 4 days ago
 - [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 6 days ago
@@ -42,8 +45,6 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [test(polylang): boot Polylang in the test bootstrap so its suite runs](https://github.com/nlemoine/page-for-custom-post-type/pull/18) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 weeks ago
 - [Preserve alpha channel in Imagick negative effect](https://github.com/php-imagine/Imagine/pull/877) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 weeks ago
 - [fix: Fix bug with WP version notice in admin](https://github.com/timber/timber/pull/3264) on [timber/timber](https://github.com/timber/timber) — 3 weeks ago
-- [fix: Bump twig/twig to ^3.27 for sandbox security fixes](https://github.com/timber/timber/pull/3261) on [timber/timber](https://github.com/timber/timber) — 3 weeks ago
-- [test: stop custom-upload-dir tests leaking into random-order runs](https://github.com/timber/timber/pull/3260) on [timber/timber](https://github.com/timber/timber) — 3 weeks ago
 
 ### 🤝 Recent contributions
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 4 days ago
@@ -70,7 +71,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31074 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18844 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15804 · 3 commits
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15803 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14345 · 3 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11077 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8362 · 1 commit
