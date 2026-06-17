@@ -7,7 +7,7 @@ Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a 
 Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
 
 #### WordPress
-- [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.2](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.2) - 6 days ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
+- [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.2](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.2) - 1 week ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 1 week ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 2 weeks ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 2 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
@@ -18,10 +18,10 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 3 weeks ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 7 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
-- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 8 minutes ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
+- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 13 hours ago) — Serverless HTTP client - make requests to PHP scripts on the command line
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 16 hours ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 2 weeks ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
-- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.0](https://github.com/nlemoine/http-cli/releases/tag/1.1.0) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 
 #### JavaScript/TypeScript
 - [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
@@ -32,11 +32,12 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 3 hours ago
-- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 4 hours ago
-- [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 4 days ago
-- [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 4 days ago
-- [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 6 days ago
+- [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 15 hours ago
+- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 19 hours ago
+- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 21 hours ago
+- [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 5 days ago
+- [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 5 days ago
+- [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [Preserve transparency in the Imagick grayscale effect](https://github.com/php-imagine/Imagine/pull/880) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 weeks ago
 - [Fix imagick stale layers](https://github.com/php-imagine/Imagine/pull/879) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 weeks ago
 - [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 weeks ago
@@ -44,20 +45,19 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Preserve transparency when pasting with alpha on the Imagick driver](https://github.com/php-imagine/Imagine/pull/878) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 weeks ago
 - [test(polylang): boot Polylang in the test bootstrap so its suite runs](https://github.com/nlemoine/page-for-custom-post-type/pull/18) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 weeks ago
 - [Preserve alpha channel in Imagick negative effect](https://github.com/php-imagine/Imagine/pull/877) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 2 weeks ago
-- [fix: Fix bug with WP version notice in admin](https://github.com/timber/timber/pull/3264) on [timber/timber](https://github.com/timber/timber) — 3 weeks ago
 
 ### 🤝 Recent contributions
-- [timber/timber](https://github.com/timber/timber) — 55 commits — 4 days ago
-- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 5 days ago
+- [timber/timber](https://github.com/timber/timber) — 55 commits — 5 days ago
+- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 6 days ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 2 weeks ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 3 weeks ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 1 month ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 1 month ago
-- [Intervention/image](https://github.com/Intervention/image) — 3 commits — 1 month ago
+- [Intervention/image](https://github.com/Intervention/image) — 3 commits — 2 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 2 months ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 3 months ago
 - [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 3 months ago
-- [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 4 months ago
+- [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 5 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 5 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 5 months ago
 - [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 5 months ago
@@ -69,8 +69,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31074 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18844 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31073 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18847 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15803 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14345 · 3 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11077 · 1 commit
@@ -78,7 +78,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4474 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1963 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1964 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1815 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1360 · 2 commits
@@ -90,4 +90,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 407 · 4 commits
 - [roots/bud](https://github.com/roots/bud) — ⭐ 347 · 2 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-16</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-17</sub>
