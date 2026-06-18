@@ -7,7 +7,7 @@ Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a 
 Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
 
 #### WordPress
-- [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 16 hours ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
+- [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 17 hours ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 1 week ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 2 weeks ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 2 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
@@ -18,7 +18,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 3 weeks ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 7 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
-- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 1 day ago) — Serverless HTTP client - make requests to PHP scripts on the command line
+- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 2 days ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 2 days ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 2 weeks ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
@@ -32,8 +32,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 16 hours ago
-- [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 17 hours ago
+- [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 18 hours ago
+- [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 18 hours ago
 - [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 2 days ago
 - [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 days ago
 - [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 days ago
@@ -69,7 +69,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31077 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31078 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18851 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15803 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14346 · 3 commits
