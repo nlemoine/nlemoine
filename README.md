@@ -33,7 +33,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 19 hours ago
+- [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 2 days ago
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [Feat/vite plugin mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 1 week ago
@@ -48,8 +48,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 3 weeks ago
 
 ### 🤝 Recent contributions
-- [Intervention/image](https://github.com/Intervention/image) — 4 commits — 1 day ago
-- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 3 days ago
+- [Intervention/image](https://github.com/Intervention/image) — 4 commits — 2 days ago
+- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 4 days ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 2 weeks ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 2 weeks ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 3 weeks ago
@@ -63,32 +63,32 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 5 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 5 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 5 months ago
-- [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 5 months ago
+- [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 6 months ago
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) — 1 commit — 6 months ago
 - [unocss/unocss](https://github.com/unocss/unocss) — 1 commit — 6 months ago
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — 4 commits — 7 months ago
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31091 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18854 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15811 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31092 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18856 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15810 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14348 · 4 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11080 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8363 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8364 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4474 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1966 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1963 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1818 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1361 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1024 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 778 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 779 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
-- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 411 · 4 commits
+- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 412 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-24</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-25</sub>
