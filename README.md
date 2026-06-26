@@ -15,13 +15,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 1 year ago) — Easily generate custom fake data for WordPress using YAML and WP-CLI
 - [acf-country](https://github.com/nlemoine/acf-country) ([v3.0.1](https://github.com/nlemoine/acf-country/releases/tag/v3.0.1) - 2 years ago) — ACF Country field - Display a select field of all countries, in any language.
 #### Timber
-- [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 4 weeks ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
+- [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 1 month ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 7 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 1 week ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 1 week ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
-- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 3 weeks ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
+- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 4 weeks ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 
 #### JavaScript/TypeScript
 - [@n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/tree/main/packages/vite-plugin-mjml) — Vite plugin that compiles MJML email templates to HTML with a live dev preview
@@ -33,7 +33,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 2 days ago
+- [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 3 days ago
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [Feat/vite plugin mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 1 week ago
@@ -48,8 +48,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 3 weeks ago
 
 ### 🤝 Recent contributions
-- [Intervention/image](https://github.com/Intervention/image) — 4 commits — 2 days ago
-- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 4 days ago
+- [Intervention/image](https://github.com/Intervention/image) — 4 commits — 3 days ago
+- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 5 days ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 2 weeks ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 2 weeks ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 3 weeks ago
@@ -70,9 +70,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31092 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18856 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15810 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31094 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18855 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15811 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14348 · 4 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11080 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8364 · 1 commit
@@ -80,7 +80,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1963 · 4 commits
-- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1818 · 4 commits
+- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1361 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1024 · 2 commits
@@ -91,4 +91,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 412 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-25</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-26</sub>
