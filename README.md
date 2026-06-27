@@ -8,7 +8,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 #### WordPress
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 1 week ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
-- [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 2 weeks ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
+- [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 3 weeks ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 3 weeks ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 3 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 - [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 6 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
@@ -19,8 +19,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 7 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
-- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 1 week ago) — Serverless HTTP client - make requests to PHP scripts on the command line
-- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 1 week ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
+- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 2 weeks ago) — Serverless HTTP client - make requests to PHP scripts on the command line
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 2 weeks ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 4 weeks ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 
 #### JavaScript/TypeScript
@@ -33,13 +33,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 3 days ago
+- [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 4 days ago
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 week ago
 - [Feat/vite plugin mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 1 week ago
-- [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 1 week ago
-- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 1 week ago
-- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 1 week ago
+- [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 2 weeks ago
+- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 weeks ago
+- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 weeks ago
 - [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 - [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 - [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 2 weeks ago
@@ -48,13 +48,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 3 weeks ago
 
 ### 🤝 Recent contributions
-- [Intervention/image](https://github.com/Intervention/image) — 4 commits — 3 days ago
-- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 5 days ago
+- [Intervention/image](https://github.com/Intervention/image) — 4 commits — 4 days ago
+- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 6 days ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 2 weeks ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 2 weeks ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 3 weeks ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 1 month ago
-- [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 1 month ago
+- [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 2 months ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 2 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 2 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 3 months ago
@@ -71,15 +71,15 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 ### 🤩 Notable contributions
 
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31094 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18855 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15811 · 3 commits
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18854 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15813 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14348 · 4 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11080 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8364 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8365 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4474 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1963 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1964 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1361 · 2 commits
@@ -91,4 +91,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 412 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-26</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-06-27</sub>
