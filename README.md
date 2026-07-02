@@ -43,13 +43,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 3 weeks ago
 - [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 3 weeks ago
 - [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 3 weeks ago
-- [Preserve transparency in the Imagick grayscale effect](https://github.com/php-imagine/Imagine/pull/880) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 weeks ago
-- [Fix imagick stale layers](https://github.com/php-imagine/Imagine/pull/879) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 weeks ago
+- [Preserve transparency in the Imagick grayscale effect](https://github.com/php-imagine/Imagine/pull/880) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 1 month ago
+- [Fix imagick stale layers](https://github.com/php-imagine/Imagine/pull/879) on [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 1 month ago
 - [Improve Autodescription (TSF) integration coverage](https://github.com/nlemoine/page-for-custom-post-type/pull/20) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 1 month ago
 
 ### 🤝 Recent contributions
 - [Intervention/image](https://github.com/Intervention/image) — 4 commits — 1 week ago
-- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 1 week ago
+- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 2 weeks ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 3 weeks ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 3 weeks ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 1 month ago
@@ -70,25 +70,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31096 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18858 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15816 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14346 · 4 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11085 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8362 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31100 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18857 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15819 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14347 · 4 commits
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11084 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8363 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4473 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1965 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1966 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
-- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1021 · 2 commits
+- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1022 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 784 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 785 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
-- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 413 · 4 commits
+- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 414 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-01</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-02</sub>
