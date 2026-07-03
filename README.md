@@ -56,13 +56,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 1 month ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 2 months ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 2 months ago
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 2 months ago
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 3 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 3 months ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 3 months ago
 - [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 3 months ago
 - [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 5 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 5 months ago
-- [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 5 months ago
+- [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 6 months ago
 - [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 6 months ago
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) — 1 commit — 6 months ago
 - [unocss/unocss](https://github.com/unocss/unocss) — 1 commit — 6 months ago
@@ -70,25 +70,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31100 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18857 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15819 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31099 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18862 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15818 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14347 · 4 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11084 · 1 commit
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11085 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8363 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4473 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2298 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1966 · 4 commits
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2300 · 1 commit
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1967 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1022 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 785 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 786 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 414 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-02</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-03</sub>
