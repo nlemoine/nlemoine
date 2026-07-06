@@ -51,7 +51,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Intervention/image](https://github.com/Intervention/image) — 4 commits — 2 weeks ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 2 weeks ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 3 weeks ago
-- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 3 weeks ago
+- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 4 weeks ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 1 month ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 1 month ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 2 months ago
@@ -70,25 +70,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31102 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18862 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15818 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14350 · 4 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31103 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18861 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15819 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14351 · 4 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11085 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8365 · 1 commit
-- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4473 · 4 commits
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8366 · 1 commit
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4474 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2636 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2300 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1968 · 4 commits
-- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1969 · 4 commits
+- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1821 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
-- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1022 · 2 commits
+- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1021 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 786 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 788 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
-- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 417 · 4 commits
+- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 418 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-05</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-06</sub>
