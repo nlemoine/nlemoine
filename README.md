@@ -33,25 +33,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 2 days ago
+- [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 3 days ago
 - [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 3 weeks ago
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 3 weeks ago
-- [Feat/vite plugin mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 3 weeks ago
+- [feat: add @n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 3 weeks ago
 - [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 3 weeks ago
 - [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 3 weeks ago
 - [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 3 weeks ago
-- [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 4 weeks ago
-- [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 4 weeks ago
+- [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 1 month ago
+- [ci: surface public API changes on pull requests](https://github.com/timber/timber/pull/3274) on [timber/timber](https://github.com/timber/timber) — 1 month ago
 - [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 month ago
 
 ### 🤝 Recent contributions
-- [Intervention/image](https://github.com/Intervention/image) — 5 commits — 1 day ago
-- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 2 weeks ago
-- [timber/timber](https://github.com/timber/timber) — 55 commits — 4 weeks ago
+- [Intervention/image](https://github.com/Intervention/image) — 5 commits — 2 days ago
+- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 3 weeks ago
+- [timber/timber](https://github.com/timber/timber) — 55 commits — 1 month ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 1 month ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 1 month ago
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 1 month ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 13 commits — 2 months ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 2 months ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 2 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 3 months ago
@@ -62,16 +62,16 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 5 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 6 months ago
 - [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 6 months ago
-- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) — 1 commit — 6 months ago
+- [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) — 1 commit — 7 months ago
 - [unocss/unocss](https://github.com/unocss/unocss) — 1 commit — 7 months ago
 - [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — 4 commits — 7 months ago
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31103 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18863 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15819 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14354 · 5 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31102 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18868 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15821 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14353 · 5 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11086 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8366 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4475 · 4 commits
@@ -82,11 +82,11 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1021 · 2 commits
-- [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
+- [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 789 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
-- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 420 · 4 commits
+- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 421 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-08</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-09</sub>
