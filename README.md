@@ -11,7 +11,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 1 month ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 1 month ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 3 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
-- [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 6 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
+- [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 7 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
 - [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 1 year ago) — Easily generate custom fake data for WordPress using YAML and WP-CLI
 - [acf-country](https://github.com/nlemoine/acf-country) ([v3.0.1](https://github.com/nlemoine/acf-country/releases/tag/v3.0.1) - 2 years ago) — ACF Country field - Display a select field of all countries, in any language.
 #### Timber
@@ -33,7 +33,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 3 days ago
+- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 2 days ago
+- [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 4 days ago
 - [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 3 weeks ago
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 3 weeks ago
@@ -46,7 +47,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 month ago
 
 ### 🤝 Recent contributions
-- [Intervention/image](https://github.com/Intervention/image) — 5 commits — 2 days ago
+- [Intervention/image](https://github.com/Intervention/image) — 6 commits — 1 day ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 3 weeks ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 1 month ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 1 month ago
@@ -68,13 +69,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31102 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18868 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15821 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14353 · 5 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11086 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31104 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18870 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15823 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14351 · 6 commits
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11085 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8366 · 1 commit
-- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4475 · 4 commits
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2637 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2300 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1970 · 4 commits
@@ -83,10 +84,10 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1021 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 789 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 791 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
-- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 421 · 4 commits
+- [terrazzoapp/terrazzo](https://github.com/terrazzoapp/terrazzo) — ⭐ 423 · 4 commits
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-09</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-10</sub>
