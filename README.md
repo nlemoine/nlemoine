@@ -33,7 +33,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 30 minutes ago
+- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 hours ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 3 days ago
 - [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 5 days ago
 - [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
@@ -48,7 +48,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [feat: support multisite installations](https://github.com/nlemoine/wp-cli-move/pull/8) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 month ago
 
 ### 🤝 Recent contributions
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 50 minutes ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 2 hours ago
 - [Intervention/image](https://github.com/Intervention/image) — 6 commits — 2 days ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 1 commit — 3 weeks ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 1 month ago
@@ -70,12 +70,12 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31102 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31103 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18871 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15823 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14351 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11086 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8367 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8368 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2637 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2300 · 1 commit
