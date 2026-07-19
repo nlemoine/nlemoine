@@ -9,7 +9,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 #### WordPress
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 1 month ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 1 month ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
-- [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 1 month ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
+- [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 2 months ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 3 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 - [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 7 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
 - [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 1 year ago) — Easily generate custom fake data for WordPress using YAML and WP-CLI
@@ -33,9 +33,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Fix the app.css build asset corrupted by merge conflict markers](https://github.com/EasyCorp/EasyAdminBundle/pull/7728) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 3 days ago
+- [Fix the app.css build asset corrupted by merge conflict markers](https://github.com/EasyCorp/EasyAdminBundle/pull/7728) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 4 days ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
-- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 1 week ago
+- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 4 weeks ago
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 month ago
@@ -47,7 +47,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 1 month ago
 
 ### 🤝 Recent contributions
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 1 commit — 3 days ago
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 1 commit — 4 days ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 1 week ago
 - [Intervention/image](https://github.com/Intervention/image) — 6 commits — 1 week ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 1 month ago
@@ -69,25 +69,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31103 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18875 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15830 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31105 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18879 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15831 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14352 · 6 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11086 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8366 · 1 commit
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11085 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8367 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4287 · 1 commit
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2637 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2302 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1974 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1975 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1821 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1021 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 802 · 1 commit
-- [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 804 · 1 commit
+- [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 540 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-18</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-19</sub>
