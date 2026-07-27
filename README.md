@@ -33,6 +33,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
+- [Fix image field lightbox init and thumbnail scroll jump](https://github.com/EasyCorp/EasyAdminBundle/pull/7738) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 4 days ago
 - [Fix the app.css build asset corrupted by merge conflict markers](https://github.com/EasyCorp/EasyAdminBundle/pull/7728) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 weeks ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
@@ -44,17 +45,16 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 1 month ago
 - [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 1 month ago
 - [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 1 month ago
-- [test(image): fix flaky testReplacedImage caused by uploads leakage](https://github.com/timber/timber/pull/3275) on [timber/timber](https://github.com/timber/timber) — 1 month ago
 
 ### 🤝 Recent contributions
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 1 commit — 2 weeks ago
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 4 days ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 2 weeks ago
-- [Intervention/image](https://github.com/Intervention/image) — 6 commits — 2 weeks ago
+- [Intervention/image](https://github.com/Intervention/image) — 6 commits — 3 weeks ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 1 month ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 1 month ago
-- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 1 month ago
+- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 2 months ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 2 months ago
-- [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 2 months ago
+- [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 3 months ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 3 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 3 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 4 months ago
@@ -69,25 +69,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31110 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18882 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15838 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31112 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18883 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15841 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14358 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11091 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8368 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8367 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4283 · 1 commit
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4284 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2634 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2301 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1977 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1976 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1022 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 816 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 818 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 540 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-26</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-27</sub>
