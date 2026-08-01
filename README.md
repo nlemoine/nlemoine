@@ -20,7 +20,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 #### PHP
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 1 month ago) — Serverless HTTP client - make requests to PHP scripts on the command line
-- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 1 month ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 2 months ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 2 months ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 
 #### JavaScript/TypeScript
@@ -43,8 +43,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 1 month ago
 - [feat: add @n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 1 month ago
 - [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 1 month ago
-- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 1 month ago
-- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 1 month ago
+- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 months ago
+- [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 months ago
 
 ### 🤝 Recent contributions
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 1 week ago
@@ -69,25 +69,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31110 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18890 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15845 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14358 · 6 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31109 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18892 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15846 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14360 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11092 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8367 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8365 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4284 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2634 · 2 commits
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2301 · 1 commit
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2302 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1978 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1820 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1363 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1022 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 831 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 832 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
-- [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 540 · 1 commit
+- [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-07-31</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-01</sub>
