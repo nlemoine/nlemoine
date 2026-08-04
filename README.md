@@ -59,7 +59,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 4 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 4 months ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 4 months ago
-- [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 4 months ago
+- [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 5 months ago
 - [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 6 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 6 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 7 months ago
@@ -69,25 +69,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31114 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18896 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15849 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31113 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18899 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15851 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14363 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11093 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8367 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8368 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4285 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2634 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2302 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1978 · 4 commits
-- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1821 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1979 · 4 commits
+- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1822 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1363 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1022 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 835 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 838 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-03</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-04</sub>
