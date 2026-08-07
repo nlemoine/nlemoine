@@ -35,7 +35,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 - [Fix image field lightbox init and thumbnail scroll jump](https://github.com/EasyCorp/EasyAdminBundle/pull/7738) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 weeks ago
 - [Fix the app.css build asset corrupted by merge conflict markers](https://github.com/EasyCorp/EasyAdminBundle/pull/7728) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 3 weeks ago
-- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 4 weeks ago
+- [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 month ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 1 month ago
 - [Reset page geometry after Imagick rotation](https://github.com/Intervention/image/pull/1505) on [Intervention/image](https://github.com/Intervention/image) — 1 month ago
 - [Convert YCbCr images to sRGB when decoding with Imagick](https://github.com/Intervention/image/pull/1502) on [Intervention/image](https://github.com/Intervention/image) — 1 month ago
@@ -48,7 +48,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤝 Recent contributions
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 2 weeks ago
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 4 weeks ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 1 month ago
 - [Intervention/image](https://github.com/Intervention/image) — 6 commits — 1 month ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 2 months ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 2 months ago
@@ -69,12 +69,12 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31117 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18903 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15855 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14366 · 6 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31119 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18906 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15857 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14367 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11094 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8369 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8370 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4285 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
@@ -82,12 +82,12 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1980 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1823 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
-- [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
+- [spatie/image](https://github.com/spatie/image) — ⭐ 1363 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1023 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 841 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 842 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-06</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-07</sub>
