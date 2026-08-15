@@ -16,7 +16,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [acf-country](https://github.com/nlemoine/acf-country) ([v3.0.1](https://github.com/nlemoine/acf-country/releases/tag/v3.0.1) - 2 years ago) — ACF Country field - Display a select field of all countries, in any language.
 #### Timber
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 3 months ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
-- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 8 months ago) — WordPress translations extraction for Twig files with WP-CLI
+- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 9 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
@@ -58,10 +58,10 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 3 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 4 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 4 months ago
-- [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 4 months ago
+- [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 5 months ago
 - [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 5 months ago
 - [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 6 months ago
-- [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 6 months ago
+- [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 7 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 7 months ago
 - [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 7 months ago
 - [WyriHaximus/github-action-composer-php-versions-in-range](https://github.com/WyriHaximus/github-action-composer-php-versions-in-range) — 1 commit — 8 months ago
@@ -69,25 +69,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31122 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18918 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31123 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18919 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15865 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14368 · 6 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11096 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8372 · 1 commit
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14369 · 6 commits
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11095 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8373 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4291 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2302 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1980 · 4 commits
-- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1823 · 4 commits
+- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1825 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1635 · 1 commit
-- [spatie/image](https://github.com/spatie/image) — ⭐ 1362 · 2 commits
+- [spatie/image](https://github.com/spatie/image) — ⭐ 1363 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1025 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 858 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 859 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-14</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-15</sub>
