@@ -69,11 +69,11 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31123 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18919 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31124 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18922 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15865 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14369 · 6 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11095 · 1 commit
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11096 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8373 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4291 · 2 commits
@@ -90,4 +90,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-15</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-16</sub>
