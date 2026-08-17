@@ -21,7 +21,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 2 months ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
-- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 2 months ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
+- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 3 months ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 
 #### JavaScript/TypeScript
 - [@n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/tree/main/packages/vite-plugin-mjml) — Vite plugin that compiles MJML email templates to HTML with a live dev preview
@@ -33,7 +33,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Fix image field lightbox init and thumbnail scroll jump](https://github.com/EasyCorp/EasyAdminBundle/pull/7738) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 3 weeks ago
+- [Fix image field lightbox init and thumbnail scroll jump](https://github.com/EasyCorp/EasyAdminBundle/pull/7738) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 4 weeks ago
 - [Fix the app.css build asset corrupted by merge conflict markers](https://github.com/EasyCorp/EasyAdminBundle/pull/7728) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 1 month ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 month ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 1 month ago
@@ -47,7 +47,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Pilot reusable php-qa workflow](https://github.com/nlemoine/rangelog/pull/5) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 months ago
 
 ### 🤝 Recent contributions
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 3 weeks ago
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 4 weeks ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 14 commits — 1 month ago
 - [Intervention/image](https://github.com/Intervention/image) — 6 commits — 1 month ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 2 months ago
@@ -60,7 +60,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 4 months ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 5 months ago
 - [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 5 months ago
-- [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 6 months ago
+- [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 7 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 7 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 7 months ago
 - [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 7 months ago
@@ -69,25 +69,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31124 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18922 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31123 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18923 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15865 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14369 · 6 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14368 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11096 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8373 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4291 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2302 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1980 · 4 commits
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2303 · 1 commit
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1981 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1825 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1635 · 1 commit
-- [spatie/image](https://github.com/spatie/image) — ⭐ 1363 · 2 commits
+- [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1025 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 859 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 860 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-16</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-17</sub>
