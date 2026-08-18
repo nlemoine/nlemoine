@@ -70,13 +70,13 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 ### 🤩 Notable contributions
 
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31123 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18923 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15865 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14368 · 6 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11096 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8373 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18924 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15867 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14366 · 6 commits
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11097 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8374 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4291 · 2 commits
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4292 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2303 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1981 · 4 commits
@@ -90,4 +90,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-17</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-18</sub>
