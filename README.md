@@ -18,7 +18,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 3 months ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 9 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
-- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v1.0.0](https://github.com/nlemoine/dtcg-tokens/releases/tag/1.0.0) - 2 months ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v2.0.1](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.1) - 21 hours ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 2 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 3 months ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
@@ -33,7 +33,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [docs: document the actual ACF location rule](https://github.com/nlemoine/page-for-custom-post-type/pull/25) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 days ago
+- [fix: tie the cache key version to the released version](https://github.com/nlemoine/dtcg-tokens/pull/6) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 21 hours ago
+- [Feat/2.0 hardening](https://github.com/nlemoine/dtcg-tokens/pull/4) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 3 days ago
+- [docs: document the actual ACF location rule](https://github.com/nlemoine/page-for-custom-post-type/pull/25) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 3 days ago
 - [Fix image field lightbox init and thumbnail scroll jump](https://github.com/EasyCorp/EasyAdminBundle/pull/7738) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 1 month ago
 - [Fix the app.css build asset corrupted by merge conflict markers](https://github.com/EasyCorp/EasyAdminBundle/pull/7728) on [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 1 month ago
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image-driver-vips/pull/115) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 month ago
@@ -43,8 +45,6 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix: force non-interactive ssh for db push, add unit tests](https://github.com/nlemoine/wp-cli-move/pull/11) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 2 months ago
 - [fix: rsync uploads fail on openrsync ("empty remote host")](https://github.com/nlemoine/wp-cli-move/pull/10) on [nlemoine/wp-cli-move](https://github.com/nlemoine/wp-cli-move) — 2 months ago
 - [feat: add @n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/pull/1) on [nlemoine/packages](https://github.com/nlemoine/packages) — 2 months ago
-- [ci: adopt centralized reusable workflows](https://github.com/nlemoine/http-cli/pull/3) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 2 months ago
-- [Use reusable release-please workflow](https://github.com/nlemoine/rangelog/pull/6) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 months ago
 
 ### 🤝 Recent contributions
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 1 month ago
@@ -69,9 +69,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31130 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18925 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15871 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31131 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18930 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15870 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14366 · 6 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11097 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8374 · 1 commit
@@ -81,7 +81,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2303 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1983 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1826 · 4 commits
-- [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1635 · 1 commit
+- [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1636 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1026 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · 1 commit
@@ -90,4 +90,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) — ⭐ 541 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-20</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-08-21</sub>
