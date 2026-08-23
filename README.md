@@ -10,7 +10,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 3 months ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 2 months ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.1](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.1) - 2 months ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
-- [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 4 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
+- [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 5 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 - [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 8 months ago) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
 - [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 1 year ago) — Easily generate custom fake data for WordPress using YAML and WP-CLI
 - [acf-country](https://github.com/nlemoine/acf-country) ([v3.0.1](https://github.com/nlemoine/acf-country/releases/tag/v3.0.1) - 2 years ago) — ACF Country field - Display a select field of all countries, in any language.
@@ -33,10 +33,10 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Orient every frame of an animated Imagick image](https://github.com/Intervention/image/pull/1519) on [Intervention/image](https://github.com/Intervention/image) — 10 hours ago
-- [Detach Imagick frame when converting to image](https://github.com/Intervention/image/pull/1518) on [Intervention/image](https://github.com/Intervention/image) — 13 hours ago
-- [fix(modifiers): convert pixel data in ColorspaceModifier](https://github.com/Intervention/image-driver-vips/pull/121) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 16 hours ago
-- [fix(modifiers): keep the trimmed area when a later corner matches it](https://github.com/Intervention/image-driver-vips/pull/120) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 22 hours ago
+- [Orient every frame of an animated Imagick image](https://github.com/Intervention/image/pull/1519) on [Intervention/image](https://github.com/Intervention/image) — 13 hours ago
+- [Detach Imagick frame when converting to image](https://github.com/Intervention/image/pull/1518) on [Intervention/image](https://github.com/Intervention/image) — 15 hours ago
+- [fix(modifiers): convert pixel data in ColorspaceModifier](https://github.com/Intervention/image-driver-vips/pull/121) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 18 hours ago
+- [fix(modifiers): keep the trimmed area when a later corner matches it](https://github.com/Intervention/image-driver-vips/pull/120) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 day ago
 - [fix: tie the cache key version to the released version](https://github.com/nlemoine/dtcg-tokens/pull/6) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 3 days ago
 - [fix(modifiers): rotate 16-bit sources at non-quarter angles](https://github.com/Intervention/image-driver-vips/pull/119) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 4 days ago
 - [Feat/2.0 hardening](https://github.com/nlemoine/dtcg-tokens/pull/4) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 5 days ago
@@ -48,8 +48,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Add JPEG XL (JXL) encoder](https://github.com/Intervention/image/pull/1506) on [Intervention/image](https://github.com/Intervention/image) — 2 months ago
 
 ### 🤝 Recent contributions
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 20 commits — in 25 minutes
-- [Intervention/image](https://github.com/Intervention/image) — 8 commits — in 25 minutes
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 20 commits — 2 hours ago
+- [Intervention/image](https://github.com/Intervention/image) — 8 commits — 2 hours ago
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 1 month ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 2 months ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 2 months ago
