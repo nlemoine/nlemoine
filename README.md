@@ -36,7 +36,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix(modifiers): remove the profile without mutating the shared image](https://github.com/Intervention/image-driver-vips/pull/124) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
 - [fix(modifiers): strip meta data at save time](https://github.com/Intervention/image-driver-vips/pull/123) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
 - [Keep the ICC profile of a stripped Imagick image in PNG output](https://github.com/Intervention/image/pull/1524) on [Intervention/image](https://github.com/Intervention/image) — 1 week ago
-- [fix(modifiers): keep the colorspace of the source in grayscale](https://github.com/Intervention/image-driver-vips/pull/122) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
+- [fix(modifiers): keep the colorspace of the source in grayscale](https://github.com/Intervention/image-driver-vips/pull/122) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [Orient every frame of an animated Imagick image](https://github.com/Intervention/image/pull/1519) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [Detach Imagick frame when converting to image](https://github.com/Intervention/image/pull/1518) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix(modifiers): convert pixel data in ColorspaceModifier](https://github.com/Intervention/image-driver-vips/pull/121) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
@@ -50,8 +50,8 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [docs: document the actual ACF location rule](https://github.com/nlemoine/page-for-custom-post-type/pull/25) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 weeks ago
 
 ### 🤝 Recent contributions
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 23 commits — 6 days ago
-- [Intervention/image](https://github.com/Intervention/image) — 10 commits — 6 days ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 23 commits — 1 week ago
+- [Intervention/image](https://github.com/Intervention/image) — 10 commits — 1 week ago
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 1 month ago
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — 1 commit — 2 months ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 2 months ago
@@ -63,7 +63,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 5 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 5 months ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 5 months ago
-- [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 5 months ago
+- [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 6 months ago
 - [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 7 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 7 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 8 months ago
@@ -72,12 +72,12 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31144 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18946 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15884 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14364 · 10 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11104 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8375 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31143 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18947 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15888 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14366 · 10 commits
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11105 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8374 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4299 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
@@ -88,9 +88,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1027 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 892 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 893 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 547 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-03</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-04</sub>
