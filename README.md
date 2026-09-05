@@ -45,16 +45,16 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Fix Imagick grayscale flattening saturated colors](https://github.com/Intervention/image/pull/1516) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix: tie the cache key version to the released version](https://github.com/nlemoine/dtcg-tokens/pull/6) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 2 weeks ago
 - [fix(modifiers): rotate 16-bit sources at non-quarter angles](https://github.com/Intervention/image-driver-vips/pull/119) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
-- [Stricter parser](https://github.com/nlemoine/dtcg-tokens/pull/4) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 2 weeks ago
-- [Fix pipeline depth guard](https://github.com/Intervention/image-driver-vips/pull/118) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
-- [docs: document the actual ACF location rule](https://github.com/nlemoine/page-for-custom-post-type/pull/25) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 2 weeks ago
+- [Stricter parser](https://github.com/nlemoine/dtcg-tokens/pull/4) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 3 weeks ago
+- [Fix pipeline depth guard](https://github.com/Intervention/image-driver-vips/pull/118) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
+- [docs: document the actual ACF location rule](https://github.com/nlemoine/page-for-custom-post-type/pull/25) on [nlemoine/page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) — 3 weeks ago
 
 ### 🤝 Recent contributions
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 23 commits — 1 week ago
 - [Intervention/image](https://github.com/Intervention/image) — 10 commits — 1 week ago
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 1 month ago
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — 1 commit — 2 months ago
-- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 2 months ago
+- [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 3 months ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 3 months ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 3 months ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 3 months ago
@@ -72,18 +72,18 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31143 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18947 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15888 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31145 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18946 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15889 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14366 · 10 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11105 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8374 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8375 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4299 · 2 commits
-- [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4298 · 2 commits
+- [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2632 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2316 · 1 commit
 - [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1987 · 4 commits
-- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1827 · 4 commits
+- [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1826 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1027 · 2 commits
@@ -93,4 +93,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 547 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-04</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-05</sub>
