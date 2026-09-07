@@ -18,7 +18,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 3 months ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.0](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.0) - 9 months ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
-- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v2.0.1](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.1) - 2 weeks ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v2.0.1](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.1) - 3 weeks ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 3 months ago) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 3 months ago) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
@@ -33,9 +33,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [fix(modifiers): remove the profile without mutating the shared image](https://github.com/Intervention/image-driver-vips/pull/124) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
-- [fix(modifiers): strip meta data at save time](https://github.com/Intervention/image-driver-vips/pull/123) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
-- [Keep the ICC profile of a stripped Imagick image in PNG output](https://github.com/Intervention/image/pull/1524) on [Intervention/image](https://github.com/Intervention/image) — 1 week ago
+- [fix(modifiers): remove the profile without mutating the shared image](https://github.com/Intervention/image-driver-vips/pull/124) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
+- [fix(modifiers): strip meta data at save time](https://github.com/Intervention/image-driver-vips/pull/123) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
+- [Keep the ICC profile of a stripped Imagick image in PNG output](https://github.com/Intervention/image/pull/1524) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix(modifiers): keep the colorspace of the source in grayscale](https://github.com/Intervention/image-driver-vips/pull/122) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [Orient every frame of an animated Imagick image](https://github.com/Intervention/image/pull/1519) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [Detach Imagick frame when converting to image](https://github.com/Intervention/image/pull/1518) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
@@ -43,7 +43,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [Apply Imagick colorspace change to every frame](https://github.com/Intervention/image/pull/1517) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix(modifiers): keep the trimmed area when a later corner matches it](https://github.com/Intervention/image-driver-vips/pull/120) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [Fix Imagick grayscale flattening saturated colors](https://github.com/Intervention/image/pull/1516) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
-- [fix: tie the cache key version to the released version](https://github.com/nlemoine/dtcg-tokens/pull/6) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 2 weeks ago
+- [fix: tie the cache key version to the released version](https://github.com/nlemoine/dtcg-tokens/pull/6) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 3 weeks ago
 - [fix(modifiers): rotate 16-bit sources at non-quarter angles](https://github.com/Intervention/image-driver-vips/pull/119) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [Stricter parser](https://github.com/nlemoine/dtcg-tokens/pull/4) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 3 weeks ago
 - [Fix pipeline depth guard](https://github.com/Intervention/image-driver-vips/pull/118) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
@@ -52,7 +52,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 ### 🤝 Recent contributions
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 23 commits — 1 week ago
 - [Intervention/image](https://github.com/Intervention/image) — 10 commits — 1 week ago
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 1 month ago
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 2 months ago
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — 1 commit — 2 months ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 3 months ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 3 months ago
@@ -72,25 +72,25 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31145 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18947 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15889 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14366 · 10 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31146 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18948 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15891 · 3 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14367 · 10 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11106 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8375 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4297 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2634 · 2 commits
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2316 · 1 commit
-- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1987 · 4 commits
+- [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) — ⭐ 1988 · 4 commits
 - [gordalina/cachetool](https://github.com/gordalina/cachetool) — ⭐ 1826 · 4 commits
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · 1 commit
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1027 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 895 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 896 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 547 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-06</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-07</sub>
