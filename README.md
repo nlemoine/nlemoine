@@ -33,21 +33,21 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
+- [fix(core): set frame meta data on a private copy of the header](https://github.com/Intervention/image-driver-vips/pull/129) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 hours ago
+- [perf(core): render the pipeline into memory once](https://github.com/Intervention/image-driver-vips/pull/128) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 8 hours ago
+- [fix(frame): keep the offset on the frame](https://github.com/Intervention/image-driver-vips/pull/127) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 9 hours ago
+- [fix(core): report 0 loops for a still image](https://github.com/Intervention/image-driver-vips/pull/126) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 19 hours ago
 - [fix: support renamed symfony-cli config directory](https://github.com/nlemoine/wp-symfony-local-server/pull/8) on [nlemoine/wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) — 1 day ago
+- [fix(core): give a cloned image its own pipeline and meta data](https://github.com/Intervention/image-driver-vips/pull/125) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 days ago
 - [fix(modifiers): remove the profile without mutating the shared image](https://github.com/Intervention/image-driver-vips/pull/124) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [fix(modifiers): strip meta data at save time](https://github.com/Intervention/image-driver-vips/pull/123) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [Keep the ICC profile of a stripped Imagick image in PNG output](https://github.com/Intervention/image/pull/1524) on [Intervention/image](https://github.com/Intervention/image) — 2 weeks ago
 - [fix(modifiers): keep the colorspace of the source in grayscale](https://github.com/Intervention/image-driver-vips/pull/122) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [Orient every frame of an animated Imagick image](https://github.com/Intervention/image/pull/1519) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
 - [Detach Imagick frame when converting to image](https://github.com/Intervention/image/pull/1518) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
-- [fix(modifiers): convert pixel data in ColorspaceModifier](https://github.com/Intervention/image-driver-vips/pull/121) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
-- [Apply Imagick colorspace change to every frame](https://github.com/Intervention/image/pull/1517) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
-- [fix(modifiers): keep the trimmed area when a later corner matches it](https://github.com/Intervention/image-driver-vips/pull/120) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
-- [Fix Imagick grayscale flattening saturated colors](https://github.com/Intervention/image/pull/1516) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
-- [fix: tie the cache key version to the released version](https://github.com/nlemoine/dtcg-tokens/pull/6) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 3 weeks ago
 
 ### 🤝 Recent contributions
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 23 commits — 2 weeks ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 27 commits — 8 hours ago
 - [Intervention/image](https://github.com/Intervention/image) — 10 commits — 2 weeks ago
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 2 commits — 2 months ago
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — 1 commit — 2 months ago
@@ -69,10 +69,10 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31149 · 1 commit
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31150 · 1 commit
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18949 · 1 commit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15891 · 3 commits
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14370 · 10 commits
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14369 · 10 commits
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11105 · 1 commit
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8375 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
