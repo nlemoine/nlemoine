@@ -7,7 +7,7 @@ Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a 
 Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
 
 #### WordPress
-- [block-converter](https://github.com/nlemoine/block-converter) ([v0.1.0](https://github.com/nlemoine/block-converter/releases/tag/0.1.0) - 5 days ago) — Convert legacy or arbitrary HTML content into WordPress Gutenberg blocks.
+- [block-converter](https://github.com/nlemoine/block-converter) ([v0.1.1](https://github.com/nlemoine/block-converter/releases/tag/0.1.1) - 13 hours ago) — Convert legacy or arbitrary HTML content into WordPress Gutenberg blocks.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.2](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.2) - 1 week ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 3 months ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 3 months ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
@@ -34,6 +34,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
+- [fix: keep whitespace around inline elements when unwrapping](https://github.com/nlemoine/block-converter/pull/2) on [nlemoine/block-converter](https://github.com/nlemoine/block-converter) — 14 hours ago
 - [fix(core): set frame meta data on a private copy of the header](https://github.com/Intervention/image-driver-vips/pull/129) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
 - [perf(core): render the pipeline into memory once](https://github.com/Intervention/image-driver-vips/pull/128) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
 - [fix(frame): keep the offset on the frame](https://github.com/Intervention/image-driver-vips/pull/127) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 week ago
@@ -44,7 +45,6 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [fix(modifiers): strip meta data at save time](https://github.com/Intervention/image-driver-vips/pull/123) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [Keep the ICC profile of a stripped Imagick image in PNG output](https://github.com/Intervention/image/pull/1524) on [Intervention/image](https://github.com/Intervention/image) — 3 weeks ago
 - [fix(modifiers): keep the colorspace of the source in grayscale](https://github.com/Intervention/image-driver-vips/pull/122) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
-- [Orient every frame of an animated Imagick image](https://github.com/Intervention/image/pull/1519) on [Intervention/image](https://github.com/Intervention/image) — 4 weeks ago
 
 ### 🤝 Recent contributions
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 28 commits — 1 week ago
@@ -61,7 +61,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 5 months ago
 - [mindkomm/types](https://github.com/mindkomm/types) — 2 commits — 6 months ago
 - [jolicode/automapper](https://github.com/jolicode/automapper) — 4 commits — 6 months ago
-- [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 7 months ago
+- [MahoCommerce/maho-phpstan-plugin](https://github.com/MahoCommerce/maho-phpstan-plugin) — 1 commit — 8 months ago
 - [konradmichalik/db-sync-tool](https://github.com/konradmichalik/db-sync-tool) — 2 commits — 8 months ago
 - [vuillaume-agency/symfony-turnstile](https://github.com/vuillaume-agency/symfony-turnstile) — 3 commits — 8 months ago
 - [inpsyde/assets](https://github.com/inpsyde/assets) — 1 commit — 8 months ago
@@ -69,12 +69,12 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31148 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18960 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15897 · 3 commits
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31152 · 1 commit
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18961 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15898 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14371 · 10 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11105 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8372 · 1 commit
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11104 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8371 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4301 · 2 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
@@ -90,4 +90,4 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 547 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-16</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-17</sub>
