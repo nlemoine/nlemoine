@@ -1,14 +1,18 @@
 ## Hi, I'm Nicolas 👋
 
-Freelance full-stack dev from Rennes 🇫🇷 — WordPress & modern PHP, and a [Timber](https://github.com/timber/timber) maintainer.
+I'm a freelance full-stack web developer from Rennes 🇫🇷, with over 15 years of experience working with companies and agencies, mostly around PHP, WordPress and JavaScript/TypeScript.
+
+Like many developers, what started as a hobby eventually became my job, largely thanks to open source.
+
+To give back to the community I learned so much from, I try to contribute whenever I stumble on a bug or see a possible improvement in the packages I use. I only release my own when they bring a fresh approach or cover a blind spot. Sometimes it's just something I built for a client project and open sourced because it might help others.
+
+I joined the awesome [Timber](https://github.com/timber/timber) team as a maintainer in 2021, and I've been trying to build bridges between WordPress and modern PHP ever since.
 
 ### 🏢 Projects
 
-Open-source projects I build and maintain, mostly around WordPress, Timber, PHP, and JavaScript/TypeScript:
-
 #### WordPress
 - [block-converter](https://github.com/nlemoine/block-converter) ([v0.1.1](https://github.com/nlemoine/block-converter/releases/tag/0.1.1) - 1 week ago) — Convert legacy or arbitrary HTML content into WordPress Gutenberg blocks.
-- [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.2](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.2) - 2 weeks ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
+- [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.2](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.2) - 3 weeks ago) — A set a hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 4 months ago) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 3 months ago) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 6 months ago) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
@@ -17,7 +21,7 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [acf-country](https://github.com/nlemoine/acf-country) ([v3.0.1](https://github.com/nlemoine/acf-country/releases/tag/v3.0.1) - 3 years ago) — ACF Country field - Display a select field of all countries, in any language.
 #### Timber
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 4 months ago) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
-- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 3 days ago) — WordPress translations extraction for Twig files with WP-CLI
+- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 4 days ago) — WordPress translations extraction for Twig files with WP-CLI
 #### PHP
 - [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([v2.0.1](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.1) - 1 month ago) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
@@ -34,29 +38,29 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 
 ### 🔨 My recent pull requests
 
-- [Fix fatal error with Twig 3.29](https://github.com/timber/wp-i18n-twig/pull/11) on [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — 3 days ago
+- [Fix fatal error with Twig 3.29](https://github.com/timber/wp-i18n-twig/pull/11) on [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — 4 days ago
 - [fix: keep whitespace around inline elements when unwrapping](https://github.com/nlemoine/block-converter/pull/2) on [nlemoine/block-converter](https://github.com/nlemoine/block-converter) — 1 week ago
 - [fix(core): set frame meta data on a private copy of the header](https://github.com/Intervention/image-driver-vips/pull/129) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [perf(core): render the pipeline into memory once](https://github.com/Intervention/image-driver-vips/pull/128) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
 - [fix(frame): keep the offset on the frame](https://github.com/Intervention/image-driver-vips/pull/127) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
-- [fix(core): report 0 loops for a still image](https://github.com/Intervention/image-driver-vips/pull/126) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 weeks ago
-- [fix: support renamed symfony-cli config directory](https://github.com/nlemoine/wp-symfony-local-server/pull/8) on [nlemoine/wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) — 2 weeks ago
+- [fix(core): report 0 loops for a still image](https://github.com/Intervention/image-driver-vips/pull/126) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
+- [fix: support renamed symfony-cli config directory](https://github.com/nlemoine/wp-symfony-local-server/pull/8) on [nlemoine/wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) — 3 weeks ago
 - [fix(core): give a cloned image its own pipeline and meta data](https://github.com/Intervention/image-driver-vips/pull/125) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [fix(modifiers): remove the profile without mutating the shared image](https://github.com/Intervention/image-driver-vips/pull/124) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 month ago
 - [fix(modifiers): strip meta data at save time](https://github.com/Intervention/image-driver-vips/pull/123) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 1 month ago
 - [Keep the ICC profile of a stripped Imagick image in PNG output](https://github.com/Intervention/image/pull/1524) on [Intervention/image](https://github.com/Intervention/image) — 1 month ago
 
 ### 🤝 Recent contributions
-- [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — 11 commits — 3 days ago
+- [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — 11 commits — 4 days ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 28 commits — 2 weeks ago
 - [Intervention/image](https://github.com/Intervention/image) — 10 commits — 1 month ago
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — 3 commits — 1 month ago
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — 1 commit — 3 months ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — 2 commits — 3 months ago
 - [timber/timber](https://github.com/timber/timber) — 55 commits — 3 months ago
-- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 3 months ago
+- [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — 2 commits — 4 months ago
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — 4 commits — 4 months ago
-- [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 4 months ago
+- [mindkomm/timmy](https://github.com/mindkomm/timmy) — 1 commit — 5 months ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — 6 commits — 5 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — 3 commits — 5 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — 1 commit — 6 months ago
@@ -70,11 +74,11 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 ### 🤩 Notable contributions
 
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31162 · 1 commit
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18968 · 1 commit
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15905 · 3 commits
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18969 · 1 commit
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15907 · 3 commits
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14372 · 10 commits
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11103 · 1 commit
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8370 · 1 commit
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11104 · 1 commit
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8368 · 1 commit
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · 4 commits
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4305 · 3 commits
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2633 · 2 commits
@@ -85,9 +89,9 @@ Open-source projects I build and maintain, mostly around WordPress, Timber, PHP,
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · 2 commits
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1027 · 2 commits
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · 1 commit
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 918 · 1 commit
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 921 · 1 commit
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · 10 commits
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · 2 commits
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 550 · 1 commit
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-25</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-09-26</sub>
