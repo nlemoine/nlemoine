@@ -40,7 +40,8 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 {% set repos = repos|merge([repo]) %}
 {% endfor %}
 {% for repo in repos|sortBy('pushedAt', 'desc') %}
-- [{{ repo.name }}]({{ repo.url }}) ([{{ repo.lastRelease.name }}]({{ repo.lastRelease.url }}) - {{ repo.lastRelease.publishedAt|timeAgo }}) {{ repo.description ? '— ' ~ repo.description : '' }}
+{% set pkg = packagist.package(repo.nameWithOwner) %}
+- [{{ repo.name }}]({{ repo.url }}) ([{{ repo.lastRelease.name }}]({{ repo.lastRelease.url }}) - {{ repo.lastRelease.publishedAt|timeAgo }}{{ pkg and pkg.downloads ? ' · [📦 ' ~ (pkg.downloads.total|compactNumber) ~ ' downloads](' ~ pkg.url ~ ')' : '' }}) {{ repo.description ? '— ' ~ repo.description : '' }}
 {% endfor %}
 {% endfor %}
 {# These live as packages inside the nlemoine/packages monorepo, not standalone repos, so me.repo() can't resolve them. #}
@@ -52,6 +53,8 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 {# Repos to hide from PRs/contributions (e.g. private-ish org workflow repos). #}
 {% set excludeRepos = ['mindkomm/workflows'] %}
+{# Used to build per-repo "my commits" links: <repoUrl>/commits?author=<login>. #}
+{% set login = 'nlemoine' %}
 
 ### 🔨 My recent pull requests
 {# TODO: revisit — {{ stats.phpMergedPrs }} merged PRs across the PHP ecosystem — latest below: #}
@@ -64,7 +67,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 ### 🤝 Recent contributions
 {% for contrib in me.contributions({source: ['external', 'org'], count: 20}) %}
 {% if contrib.repoNameWithOwner not in excludeRepos %}
-- [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — {{ contrib.commitCount|pluralize('commit', 'commits') }} — {{ contrib.occurredAt|timeAgo }}
+- [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — [{{ contrib.commitCount|pluralize('commit', 'commits') }}]({{ contrib.repoUrl }}/commits?author={{ login }}) — {{ contrib.occurredAt|timeAgo }}
 {% endif %}
 {% endfor %}
 
@@ -73,7 +76,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 {% set currentYear = "now"|date('Y') + 0 %}
 {% for contrib in me.contributions({from: currentYear - 5, to: currentYear, source: ['external'], count: 80})|sortBy('stargazerCount', 'desc')|slice(0, 20) %}
 {% if contrib.repoNameWithOwner not in excludeRepos %}
-- [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — ⭐ {{ contrib.stargazerCount }} · {{ contrib.commitCount|pluralize('commit', 'commits') }}
+- [{{ contrib.repoNameWithOwner }}]({{ contrib.repoUrl }}) — ⭐ {{ contrib.stargazerCount }} · [{{ contrib.commitCount|pluralize('commit', 'commits') }}]({{ contrib.repoUrl }}/commits?author={{ login }})
 {% endif %}
 {% endfor %}
 

@@ -43,6 +43,10 @@ Twig.extendFilter('pluralize', (value: unknown, params?: unknown[]) => {
   return `${count} ${pluralRules.select(count) === 'one' ? one : other}`
 })
 
+// Compact number via Intl: {{ 233628|compactNumber }} -> "234K".
+const compactFormat = new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 })
+Twig.extendFilter('compactNumber', (value: unknown) => compactFormat.format(Number(value) || 0))
+
 // Rich, collapsible value dump via @poppinss/dumper — the JS equivalent of symfony's
 // VarDumper. Returns self-styled HTML; the preview also injects the dumper's stylesheet
 // + script (theming + collapsible nodes). Filter ({{ pr|dump }}) and function override
@@ -124,6 +128,29 @@ function withDiskCache<T extends object>(instance: T, cache: CacheOptions): T {
   })
 }
 
+export interface PackagistPackage {
+  name: string
+  url: string
+  downloads: { total: number; monthly: number; daily: number }
+}
+
+// Packagist download stats for a GitHub repo. The Composer name often differs from
+// the repo name (n5s/, hellonico/ vendors), so it's read from the repo's composer.json.
+// Returns null when the repo has no composer.json or isn't published on Packagist.
+// Usage in template: {% set pkg = packagist.package(repo.nameWithOwner) %}
+const packagist = {
+  async package(repo: string): Promise<PackagistPackage | null> {
+    const composer = await fetch(`https://raw.githubusercontent.com/${repo}/HEAD/composer.json`)
+    if (!composer.ok) return null
+    const { name } = (await composer.json()) as { name?: string }
+    if (!name) return null
+    const stats = await fetch(`https://packagist.org/packages/${name}/stats.json`)
+    if (!stats.ok) return null
+    const { downloads } = (await stats.json()) as Pick<PackagistPackage, 'downloads'>
+    return { name, url: `https://packagist.org/packages/${name}`, downloads }
+  },
+}
+
 /* TODO: revisit — count merged PRs by repo primaryLanguage. Disabled for now.
 // Count merged PRs whose target repo's primaryLanguage matches `language`.
 // The PullRequest object only carries repoNameWithOwner, so language comes from a
@@ -176,5 +203,8 @@ export async function renderReadme({
   const data = await readFile(templatePath, 'utf-8')
   // rethrow: surface compile/runtime errors instead of Twig.js's default of
   // logging them and rendering empty (which shows as a silent blank preview).
-  return Twig.twig({ data, rethrow: true }).renderAsync({ me })
+  return Twig.twig({ data, rethrow: true }).renderAsync({
+    me,
+    packagist: withDiskCache(packagist, cacheOptions),
+  })
 }
