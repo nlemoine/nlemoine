@@ -12,7 +12,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 #### WordPress
 - [block-converter](https://github.com/nlemoine/block-converter) ([v0.1.1](https://github.com/nlemoine/block-converter/releases/tag/0.1.1) - 1 week ago · [📦 39 downloads](https://packagist.org/packages/n5s/block-converter)) — Convert legacy or arbitrary HTML content into WordPress Gutenberg blocks.
-- [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.2](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.2) - 3 weeks ago · [📦 996 downloads](https://packagist.org/packages/n5s/wp-symfony-local-server)) — A set of hooks to fix running WordPress on Symfony Local Server with local domain names
+- [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.2](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.2) - 3 weeks ago · [📦 997 downloads](https://packagist.org/packages/n5s/wp-symfony-local-server)) — A set of hooks to fix running WordPress on Symfony Local Server with local domain names
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 4 months ago · [📦 1.6K downloads](https://packagist.org/packages/n5s/page-for-custom-post-type)) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
 - [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 3 months ago · [📦 913 downloads](https://packagist.org/packages/n5s/wp-cli-move)) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 6 months ago · [📦 233.6K downloads](https://packagist.org/packages/hellonico/timber-dump-extension)) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
@@ -78,7 +78,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18969 · [1 commit](https://github.com/unocss/unocss/commits?author=nlemoine)
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15907 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
 - [Intervention/image](https://github.com/Intervention/image) — ⭐ 14372 · [10 commits](https://github.com/Intervention/image/commits?author=nlemoine)
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11104 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11105 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8368 · [1 commit](https://github.com/twigphp/Twig/commits?author=nlemoine)
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine)
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4305 · [3 commits](https://github.com/EasyCorp/EasyAdminBundle/commits?author=nlemoine)
@@ -90,7 +90,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1364 · [2 commits](https://github.com/spatie/image/commits?author=nlemoine)
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1027 · [2 commits](https://github.com/johnbillion/extended-cpts/commits?author=nlemoine)
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · [1 commit](https://github.com/MyIntervals/emogrifier/commits?author=nlemoine)
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 921 · [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine)
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 922 · [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine)
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · [10 commits](https://github.com/darrenjacoby/intervention/commits?author=nlemoine)
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · [2 commits](https://github.com/spatie/http-status-check/commits?author=nlemoine)
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 550 · [1 commit](https://github.com/darylldoyle/svg-sanitizer/commits?author=nlemoine)
