@@ -28,7 +28,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 4 months ago · [📦 16.2K downloads](https://packagist.org/packages/n5s/http-cli)) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 4 months ago · [📦 121 downloads](https://packagist.org/packages/n5s/rangelog)) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 #### JavaScript/TypeScript
-- [transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) ([v3.0.2](https://github.com/nlemoine/transmit-2-ssh-config/releases/tag/v3.0.2) - 6 minutes ago) — Sync your Transmit SFTP favorites with your ssh config file
+- [transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) ([v3.0.2](https://github.com/nlemoine/transmit-2-ssh-config/releases/tag/v3.0.2) - 38 minutes ago) — Sync your Transmit SFTP favorites with your ssh config file
 - [@n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/tree/main/packages/vite-plugin-mjml) — Vite plugin that compiles MJML email templates to HTML with a live dev preview
 - [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
 - [@n5s/bruno-wordpress-converter](https://github.com/nlemoine/packages/tree/main/packages/bruno-wordpress-converter) — Convert a WordPress REST API into a Bruno collection
@@ -39,10 +39,10 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🔨 My recent pull requests
 
-- [fix: read favorite folders from Transmit's store](https://github.com/nlemoine/transmit-2-ssh-config/pull/9) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 12 minutes ago
-- [chore(deps): replace deep-equal with node:util isDeepStrictEqual](https://github.com/nlemoine/transmit-2-ssh-config/pull/8) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 17 minutes ago
-- [ci: publish to npm with trusted publishing](https://github.com/nlemoine/transmit-2-ssh-config/pull/7) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 35 minutes ago
-- [fix: update dependencies and require Node 22](https://github.com/nlemoine/transmit-2-ssh-config/pull/5) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 47 minutes ago
+- [fix: read favorite folders from Transmit's store](https://github.com/nlemoine/transmit-2-ssh-config/pull/9) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 44 minutes ago
+- [chore(deps): replace deep-equal with node:util isDeepStrictEqual](https://github.com/nlemoine/transmit-2-ssh-config/pull/8) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 49 minutes ago
+- [ci: publish to npm with trusted publishing](https://github.com/nlemoine/transmit-2-ssh-config/pull/7) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 1 hour ago
+- [fix: update dependencies and require Node 22](https://github.com/nlemoine/transmit-2-ssh-config/pull/5) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 1 hour ago
 - [ci: add PHP 8.6 as an experimental job](https://github.com/timber/timber/pull/3315) on [timber/timber](https://github.com/timber/timber) — 1 day ago
 - [fix: Return null dimensions for an SVG with no readable size](https://github.com/timber/timber/pull/3314) on [timber/timber](https://github.com/timber/timber) — 2 days ago
 - [perf: skip args in get_calling_script_file backtrace](https://github.com/timber/timber/pull/3313) on [timber/timber](https://github.com/timber/timber) — 2 days ago
@@ -79,7 +79,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31164 · [1 commit](https://github.com/symfony/symfony/commits?author=nlemoine)
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18971 · [1 commit](https://github.com/unocss/unocss/commits?author=nlemoine)
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15910 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14376 · [10 commits](https://github.com/Intervention/image/commits?author=nlemoine)
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14377 · [10 commits](https://github.com/Intervention/image/commits?author=nlemoine)
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11108 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8371 · [1 commit](https://github.com/twigphp/Twig/commits?author=nlemoine)
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine)
