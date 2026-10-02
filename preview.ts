@@ -24,7 +24,9 @@ const dumperScript = createScript()
 // re-running render-readme. Token comes from GITHUB_TOKEN or the gh CLI; without
 // one we fall back to offline (cache-only, misses render blank).
 function resolveToken(): string {
-    if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN
+    if (process.env.GITHUB_TOKEN) {
+        return process.env.GITHUB_TOKEN
+    }
     try {
         return execSync('gh auth token', {
             encoding: 'utf-8',
@@ -96,7 +98,9 @@ const server = await createServer({
                 return () => {
                     vite.middlewares.use(async (req, res, next) => {
                         const url = (req.url ?? '/').split('?')[0]
-                        if (url !== '/' && url !== '/index.html') return next()
+                        if (url !== '/' && url !== '/index.html') {
+                            return next()
+                        }
                         try {
                             // transformIndexHtml injects Vite's HMR client (/@vite/client).
                             const html = await vite.transformIndexHtml(url, await renderPageHtml())

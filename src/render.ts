@@ -10,14 +10,20 @@ import Twig from 'twig'
 // Sort an array of objects by a field. Pass 'desc' as the second arg for descending order.
 // Usage in template: {{ list|sortBy('stargazerCount', 'desc') }}
 Twig.extendFilter('sortBy', (value: unknown, params?: unknown[]) => {
-    if (!Array.isArray(value)) return value
+    if (!Array.isArray(value)) {
+        return value
+    }
     const field = params?.[0] as string
     const dir = params?.[1] === 'desc' ? -1 : 1
     return [...value].sort((a, b) => {
         const x = (a as Record<string, unknown>)?.[field] as never
         const y = (b as Record<string, unknown>)?.[field] as never
-        if (x < y) return -1 * dir
-        if (x > y) return 1 * dir
+        if (x < y) {
+            return -1 * dir
+        }
+        if (x > y) {
+            return 1 * dir
+        }
         return 0
     })
 })
@@ -27,7 +33,9 @@ Twig.extendFilter('sortBy', (value: unknown, params?: unknown[]) => {
 TimeAgo.addDefaultLocale(en)
 const timeAgo = new TimeAgo('en-US')
 Twig.extendFilter('timeAgo', (value: unknown) => {
-    if (!value) return ''
+    if (!value) {
+        return ''
+    }
     const date = new Date(value as string | number | Date)
     return Number.isNaN(date.getTime()) ? '' : timeAgo.format(date)
 })
@@ -77,7 +85,9 @@ export interface CacheOptions {
 const MISS = Symbol('cache-miss')
 
 async function readCache<T>(file: string): Promise<T | typeof MISS> {
-    if (!existsSync(file)) return MISS
+    if (!existsSync(file)) {
+        return MISS
+    }
     try {
         return JSON.parse(await readFile(file, 'utf-8')).data as T
     } catch {
@@ -99,7 +109,9 @@ async function withCache<T>(
     // online + offline both serve from cache first; only refresh skips the read.
     if (cache.mode !== 'refresh') {
         const cached = await readCache<T>(file)
-        if (cached !== MISS) return cached
+        if (cached !== MISS) {
+            return cached
+        }
         if (cache.mode === 'offline') {
             console.warn(
                 `[offline] cache miss: ${method}() — run \`bun render-readme.ts\` to fetch it`,
@@ -123,7 +135,9 @@ function withDiskCache<T extends object>(instance: T, cache: CacheOptions): T {
     return new Proxy(instance, {
         get(target, prop, receiver) {
             const value = Reflect.get(target, prop, receiver)
-            if (typeof value !== 'function') return value
+            if (typeof value !== 'function') {
+                return value
+            }
             return (...args: unknown[]) =>
                 withCache(cache, String(prop), args, () => value.apply(target, args))
         },
@@ -143,11 +157,17 @@ export interface PackagistPackage {
 const packagist = {
     async package(repo: string): Promise<PackagistPackage | null> {
         const composer = await fetch(`https://raw.githubusercontent.com/${repo}/HEAD/composer.json`)
-        if (!composer.ok) return null
+        if (!composer.ok) {
+            return null
+        }
         const { name } = (await composer.json()) as { name?: string }
-        if (!name) return null
+        if (!name) {
+            return null
+        }
         const stats = await fetch(`https://packagist.org/packages/${name}/stats.json`)
-        if (!stats.ok) return null
+        if (!stats.ok) {
+            return null
+        }
         const { downloads } = (await stats.json()) as Pick<PackagistPackage, 'downloads'>
         return { name, url: `https://packagist.org/packages/${name}`, downloads }
     },
