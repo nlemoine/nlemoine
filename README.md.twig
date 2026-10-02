@@ -10,7 +10,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🏢 Projects
 
-{% set projects = {
+{# Keep 'JavaScript/TypeScript' last: the static list after the loop is appended under its heading. Those packages live inside the nlemoine/packages monorepo, not standalone repos, so me.repo() can't resolve them. #}{% set projects = {
     'WordPress': [
         'nlemoine/page-for-custom-post-type',
         'nlemoine/block-converter',
@@ -31,6 +31,9 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
         'nlemoine/rangelog',
         'nlemoine/local-bin-monorepo',
     ],
+    'JavaScript/TypeScript': [
+        'nlemoine/transmit-2-ssh-config',
+    ],
 } %}
 {% for category, projectList in projects %}
 #### {{ category }}
@@ -44,13 +47,10 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [{{ repo.name }}]({{ repo.url }}) ([{{ repo.lastRelease.name }}]({{ repo.lastRelease.url }}) - {{ repo.lastRelease.publishedAt|timeAgo }}{{ pkg and pkg.downloads ? ' · [📦 ' ~ (pkg.downloads.total|compactNumber) ~ ' downloads](' ~ pkg.url ~ ')' : '' }}) {{ repo.description ? '— ' ~ repo.description : '' }}
 {% endfor %}
 {% endfor %}
-{# Static list: most of these live as packages inside the nlemoine/packages monorepo, not standalone repos, so me.repo() can't resolve them. #}
-#### JavaScript/TypeScript
 - [@n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/tree/main/packages/vite-plugin-mjml) — Vite plugin that compiles MJML email templates to HTML with a live dev preview
 - [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
 - [@n5s/bruno-wordpress-converter](https://github.com/nlemoine/packages/tree/main/packages/bruno-wordpress-converter) — Convert a WordPress REST API into a Bruno collection
 - [@n5s/unocss-preset-tokens](https://github.com/nlemoine/packages/tree/main/packages/unocss-preset-tokens) — UnoCSS preset that turns DTCG design tokens into theme utilities and CSS variables via Terrazzo
-- [transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — Sync your Transmit SFTP favorites with your ssh config file
 
 {# Repos to hide from PRs/contributions (e.g. private-ish org workflow repos). #}
 {% set excludeRepos = ['mindkomm/workflows'] %}
