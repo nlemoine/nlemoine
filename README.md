@@ -27,21 +27,22 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 - [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 4 months ago · [📦 16.2K downloads](https://packagist.org/packages/n5s/http-cli)) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 4 months ago · [📦 121 downloads](https://packagist.org/packages/n5s/rangelog)) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
-
 #### JavaScript/TypeScript
+- [transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) ([v3.0.2](https://github.com/nlemoine/transmit-2-ssh-config/releases/tag/v3.0.2) - 6 minutes ago) — Sync your Transmit SFTP favorites with your ssh config file
 - [@n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/tree/main/packages/vite-plugin-mjml) — Vite plugin that compiles MJML email templates to HTML with a live dev preview
 - [@n5s/octofolio](https://github.com/nlemoine/packages/tree/main/packages/octofolio) — Clean TypeScript interface for GitHub profile data via GraphQL
 - [@n5s/bruno-wordpress-converter](https://github.com/nlemoine/packages/tree/main/packages/bruno-wordpress-converter) — Convert a WordPress REST API into a Bruno collection
 - [@n5s/unocss-preset-tokens](https://github.com/nlemoine/packages/tree/main/packages/unocss-preset-tokens) — UnoCSS preset that turns DTCG design tokens into theme utilities and CSS variables via Terrazzo
-- [transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — Sync your Transmit SFTP favorites with your ssh config file
 
 
 
 
 ### 🔨 My recent pull requests
 
-- [ci: publish to npm with trusted publishing](https://github.com/nlemoine/transmit-2-ssh-config/pull/7) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 17 minutes ago
-- [fix: update dependencies and require Node 22](https://github.com/nlemoine/transmit-2-ssh-config/pull/5) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 29 minutes ago
+- [fix: read favorite folders from Transmit's store](https://github.com/nlemoine/transmit-2-ssh-config/pull/9) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 12 minutes ago
+- [chore(deps): replace deep-equal with node:util isDeepStrictEqual](https://github.com/nlemoine/transmit-2-ssh-config/pull/8) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 17 minutes ago
+- [ci: publish to npm with trusted publishing](https://github.com/nlemoine/transmit-2-ssh-config/pull/7) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 35 minutes ago
+- [fix: update dependencies and require Node 22](https://github.com/nlemoine/transmit-2-ssh-config/pull/5) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 47 minutes ago
 - [ci: add PHP 8.6 as an experimental job](https://github.com/timber/timber/pull/3315) on [timber/timber](https://github.com/timber/timber) — 1 day ago
 - [fix: Return null dimensions for an SVG with no readable size](https://github.com/timber/timber/pull/3314) on [timber/timber](https://github.com/timber/timber) — 2 days ago
 - [perf: skip args in get_calling_script_file backtrace](https://github.com/timber/timber/pull/3313) on [timber/timber](https://github.com/timber/timber) — 2 days ago
@@ -51,7 +52,6 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [fix(core): set frame meta data on a private copy of the header](https://github.com/Intervention/image-driver-vips/pull/129) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [perf(core): render the pipeline into memory once](https://github.com/Intervention/image-driver-vips/pull/128) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 - [fix(frame): keep the offset on the frame](https://github.com/Intervention/image-driver-vips/pull/127) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
-- [fix(core): report 0 loops for a still image](https://github.com/Intervention/image-driver-vips/pull/126) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 weeks ago
 
 ### 🤝 Recent contributions
 - [timber/timber](https://github.com/timber/timber) — [59 commits](https://github.com/timber/timber/commits?author=nlemoine) — 1 day ago
