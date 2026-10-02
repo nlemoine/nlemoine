@@ -1,0 +1,44 @@
+name: Lint
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.ts'
+      - '**.json'
+      - 'bun.lock'
+      - '.github/workflows/lint.yml'
+  pull_request:
+    paths:
+      - '**.ts'
+      - '**.json'
+      - 'bun.lock'
+      - '.github/workflows/lint.yml'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  biome:
+    name: Biome
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
+
+      # Uses the Biome version pinned in package.json, same as `bun run lint` locally.
+      - run: bun install --frozen-lockfile
+
+      - run: bunx biome ci .
+
+      - run: bunx tsc --noEmit -p .
