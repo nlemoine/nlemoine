@@ -6,17 +6,17 @@ import { renderReadme } from './src/render'
 const offline = process.env.OCTOFOLIO_OFFLINE === '1'
 const token = process.env.GITHUB_TOKEN
 if (!offline && !token) {
-  console.error('GITHUB_TOKEN is required (or set OCTOFOLIO_OFFLINE=1 to render from cache)')
-  process.exit(1)
+    console.error('GITHUB_TOKEN is required (or set OCTOFOLIO_OFFLINE=1 to render from cache)')
+    process.exit(1)
 }
 
 const templatePath = process.argv[2] ?? 'README.md.twig'
 const outputPath = process.argv[3] ?? 'README.md'
 
 const output = await renderReadme({
-  templatePath,
-  token,
-  cache: { mode: offline ? 'offline' : 'refresh' },
+    templatePath,
+    token,
+    cache: { mode: offline ? 'offline' : 'refresh' },
 })
 
 await writeFile(outputPath, output)
