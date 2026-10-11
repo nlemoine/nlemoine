@@ -39,9 +39,9 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🔨 My recent pull requests
 
-- [fix(unocss-preset-tokens): add channel companions whatever the line layout](https://github.com/nlemoine/packages/pull/2) on [nlemoine/packages](https://github.com/nlemoine/packages) — 1 day ago
-- [Fix transparent seam in GD RotateModifier](https://github.com/Intervention/image/pull/1550) on [Intervention/image](https://github.com/Intervention/image) — 2 days ago
-- [fix(modifiers): pivot the contrast adjustment on mid grey](https://github.com/Intervention/image-driver-vips/pull/133) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 2 days ago
+- [fix(unocss-preset-tokens): add channel companions whatever the line layout](https://github.com/nlemoine/packages/pull/2) on [nlemoine/packages](https://github.com/nlemoine/packages) — 2 days ago
+- [Fix transparent seam in GD RotateModifier](https://github.com/Intervention/image/pull/1550) on [Intervention/image](https://github.com/Intervention/image) — 3 days ago
+- [fix(modifiers): pivot the contrast adjustment on mid grey](https://github.com/Intervention/image-driver-vips/pull/133) on [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — 3 days ago
 - [fix: read favorite folders from Transmit's store](https://github.com/nlemoine/transmit-2-ssh-config/pull/9) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 1 week ago
 - [chore(deps): replace deep-equal with node:util isDeepStrictEqual](https://github.com/nlemoine/transmit-2-ssh-config/pull/8) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 1 week ago
 - [ci: publish to npm with trusted publishing](https://github.com/nlemoine/transmit-2-ssh-config/pull/7) on [nlemoine/transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) — 1 week ago
@@ -53,8 +53,8 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [Fix fatal error with Twig 3.29](https://github.com/timber/wp-i18n-twig/pull/11) on [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — 3 weeks ago
 
 ### 🤝 Recent contributions
-- [Intervention/image](https://github.com/Intervention/image) — [11 commits](https://github.com/Intervention/image/commits?author=nlemoine) — 5 hours ago
-- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — [29 commits](https://github.com/Intervention/image-driver-vips/commits?author=nlemoine) — 2 days ago
+- [Intervention/image](https://github.com/Intervention/image) — [11 commits](https://github.com/Intervention/image/commits?author=nlemoine) — 23 hours ago
+- [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — [29 commits](https://github.com/Intervention/image-driver-vips/commits?author=nlemoine) — 3 days ago
 - [timber/timber](https://github.com/timber/timber) — [59 commits](https://github.com/timber/timber/commits?author=nlemoine) — 1 week ago
 - [timber/wp-i18n-twig](https://github.com/timber/wp-i18n-twig) — [11 commits](https://github.com/timber/wp-i18n-twig/commits?author=nlemoine) — 3 weeks ago
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — [3 commits](https://github.com/EasyCorp/EasyAdminBundle/commits?author=nlemoine) — 2 months ago
@@ -75,12 +75,12 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31183 · [1 commit](https://github.com/symfony/symfony/commits?author=nlemoine)
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31184 · [1 commit](https://github.com/symfony/symfony/commits?author=nlemoine)
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18974 · [1 commit](https://github.com/unocss/unocss/commits?author=nlemoine)
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15913 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14376 · [11 commits](https://github.com/Intervention/image/commits?author=nlemoine)
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15914 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14375 · [11 commits](https://github.com/Intervention/image/commits?author=nlemoine)
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11114 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
-- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8370 · [1 commit](https://github.com/twigphp/Twig/commits?author=nlemoine)
+- [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8371 · [1 commit](https://github.com/twigphp/Twig/commits?author=nlemoine)
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4471 · [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine)
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4311 · [3 commits](https://github.com/EasyCorp/EasyAdminBundle/commits?author=nlemoine)
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2631 · [2 commits](https://github.com/thephpleague/glide/commits?author=nlemoine)
@@ -91,9 +91,9 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1365 · [2 commits](https://github.com/spatie/image/commits?author=nlemoine)
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1027 · [2 commits](https://github.com/johnbillion/extended-cpts/commits?author=nlemoine)
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 948 · [1 commit](https://github.com/MyIntervals/emogrifier/commits?author=nlemoine)
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 938 · [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine)
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 940 · [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine)
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 642 · [10 commits](https://github.com/darrenjacoby/intervention/commits?author=nlemoine)
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · [2 commits](https://github.com/spatie/http-status-check/commits?author=nlemoine)
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — ⭐ 550 · [1 commit](https://github.com/darylldoyle/svg-sanitizer/commits?author=nlemoine)
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-10-10</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-10-11</sub>
