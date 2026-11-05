@@ -45,7 +45,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 {% endfor %}
 {% for repo in repos|sortBy('pushedAt', 'desc') %}
 {% set pkg = packagist.package(repo.nameWithOwner) %}
-- [{{ repo.name }}]({{ repo.url }}) ([{{ repo.lastRelease.name }}]({{ repo.lastRelease.url }}) - {{ repo.lastRelease.publishedAt|timeAgo }}{{ pkg and pkg.downloads ? ' · [📦 ' ~ (pkg.downloads.total|compactNumber) ~ ' downloads](' ~ pkg.url ~ ')' : '' }}) {{ repo.description ? '— ' ~ repo.description : '' }}
+- [{{ repo.name }}]({{ repo.url }}) ([{{ repo.lastRelease.name }}]({{ repo.lastRelease.url }}) - {{ repo.lastRelease.publishedAt|timeAgo }}{{ pkg and pkg.downloads ? ' · [📦 ' ~ (pkg.downloads.total|compactNumber) ~ ' downloads](' ~ pkg.url ~ '/stats)' : '' }}) {{ repo.description ? '— ' ~ repo.description : '' }}
 {% endfor %}
 {% endfor %}
 - [@n5s/vite-plugin-mjml](https://github.com/nlemoine/packages/tree/main/packages/vite-plugin-mjml) — Vite plugin that compiles MJML email templates to HTML with a live dev preview
