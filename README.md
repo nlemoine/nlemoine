@@ -21,6 +21,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 2 years ago · [📦 14.3K downloads](https://packagist.org/packages/hellonico/wp-cli-fixtures/stats)) — Easily generate custom fake data for WordPress using YAML and WP-CLI
 #### Timber
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 6 months ago · [📦 4.1M downloads](https://packagist.org/packages/timber/timber/stats)) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
+- [rings](https://github.com/timber/rings) ([1.0.0](https://github.com/timber/rings/releases/tag/1.0.0) - 3 days ago · [📦 1 downloads](https://packagist.org/packages/timber/rings/stats)) — Query Monitor panel for Timber: profile your Twig templates and find the template behind any element of the page.
 - [timber-weblink-extension](https://github.com/nlemoine/timber-weblink-extension) ([2.0.0](https://github.com/nlemoine/timber-weblink-extension/releases/tag/2.0.0) - 2 weeks ago · [📦 19 downloads](https://packagist.org/packages/n5s/timber-weblink-extension/stats)) — Symfony WebLink for Timber: preload(), preconnect() and other Twig functions that send resource hints in a Link HTTP header.
 - [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 2 months ago · [📦 77.8K downloads](https://packagist.org/packages/timber/wp-i18n-twig/stats)) — WordPress translations extraction for Twig files with WP-CLI
 - [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 7 months ago · [📦 245.5K downloads](https://packagist.org/packages/hellonico/timber-dump-extension/stats)) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
@@ -58,8 +59,8 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [test: count the coverage of the front-end requests](https://github.com/nlemoine/timber-weblink-extension/pull/3) on [nlemoine/timber-weblink-extension](https://github.com/nlemoine/timber-weblink-extension) — 2 weeks ago
 
 ### 🤝 Recent contributions
-- [timber/timber](https://github.com/timber/timber) — [80 commits](https://github.com/timber/timber/commits?author=nlemoine) — 22 hours ago
-- [timber/awesome-timber](https://github.com/timber/awesome-timber) — [4 commits](https://github.com/timber/awesome-timber/commits?author=nlemoine) — 22 hours ago
+- [timber/timber](https://github.com/timber/timber) — [80 commits](https://github.com/timber/timber/commits?author=nlemoine) — 23 hours ago
+- [timber/awesome-timber](https://github.com/timber/awesome-timber) — [4 commits](https://github.com/timber/awesome-timber/commits?author=nlemoine) — 23 hours ago
 - [timber/rings](https://github.com/timber/rings) — [13 commits](https://github.com/timber/rings/commits?author=nlemoine) — 3 days ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — [7 commits](https://github.com/Art4/WP-Requests-PSR18-Adapter/commits?author=nlemoine) — 2 weeks ago
 - [humanmade/authorship](https://github.com/humanmade/authorship) — [12 commits](https://github.com/humanmade/authorship/commits?author=nlemoine) — 4 weeks ago
