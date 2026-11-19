@@ -12,23 +12,23 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 #### WordPress
 - [page-for-custom-post-type](https://github.com/nlemoine/page-for-custom-post-type) ([v1.1.0](https://github.com/nlemoine/page-for-custom-post-type/releases/tag/1.1.0) - 6 months ago · [📦 2.2K downloads](https://packagist.org/packages/n5s/page-for-custom-post-type/stats)) — WordPress plugin to set a page for any custom post type archive — just like the native "page for posts" setting.
-- [acf-country](https://github.com/nlemoine/acf-country) ([v3.1.0](https://github.com/nlemoine/acf-country/releases/tag/v3.1.0) - 2 months ago · [📦 102.2K downloads](https://packagist.org/packages/hellonico/acf-country/stats)) — ACF Country field - Display a select field of all countries, in any language.
-- [acf-color-palette](https://github.com/nlemoine/acf-color-palette) ([v1.0.0](https://github.com/nlemoine/acf-color-palette/releases/tag/1.0.0) - 2 weeks ago · [📦 26 downloads](https://packagist.org/packages/n5s/acf-color-palette/stats)) — Color palette field for ACF: pick a color from the theme.json palettes, the way the block editor does. Stores the slug, so the value follows the theme.
-- [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 11 months ago · [📦 14.4K downloads](https://packagist.org/packages/n5s/wp-hook-kit/stats)) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
+- [acf-country](https://github.com/nlemoine/acf-country) ([v3.1.0](https://github.com/nlemoine/acf-country/releases/tag/v3.1.0) - 2 months ago · [📦 102.3K downloads](https://packagist.org/packages/hellonico/acf-country/stats)) — ACF Country field - Display a select field of all countries, in any language.
+- [acf-color-palette](https://github.com/nlemoine/acf-color-palette) ([v1.0.0](https://github.com/nlemoine/acf-color-palette/releases/tag/1.0.0) - 2 weeks ago · [📦 29 downloads](https://packagist.org/packages/n5s/acf-color-palette/stats)) — Color palette field for ACF: pick a color from the theme.json palettes, the way the block editor does. Stores the slug, so the value follows the theme.
+- [wp-hook-kit](https://github.com/nlemoine/wp-hook-kit) ([v1.0.0](https://github.com/nlemoine/wp-hook-kit/releases/tag/1.0.0) - 11 months ago · [📦 14.8K downloads](https://packagist.org/packages/n5s/wp-hook-kit/stats)) — A lightweight WordPress hook helper library. Register hooks before WordPress loads, run callbacks only once, and more.
 - [wp-symfony-local-server](https://github.com/nlemoine/wp-symfony-local-server) ([v2.0.2](https://github.com/nlemoine/wp-symfony-local-server/releases/tag/v2.0.2) - 2 months ago · [📦 1.7K downloads](https://packagist.org/packages/n5s/wp-symfony-local-server/stats)) — A set of hooks to fix running WordPress on Symfony Local Server with local domain names
 - [block-converter](https://github.com/nlemoine/block-converter) ([v0.1.1](https://github.com/nlemoine/block-converter/releases/tag/0.1.1) - 2 months ago · [📦 53 downloads](https://packagist.org/packages/n5s/block-converter/stats)) — Convert legacy or arbitrary HTML content into WordPress Gutenberg blocks.
-- [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 5 months ago · [📦 1.6K downloads](https://packagist.org/packages/n5s/wp-cli-move/stats)) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
-- [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 2 years ago · [📦 14.3K downloads](https://packagist.org/packages/hellonico/wp-cli-fixtures/stats)) — Easily generate custom fake data for WordPress using YAML and WP-CLI
+- [wp-cli-move](https://github.com/nlemoine/wp-cli-move) ([v0.1.3](https://github.com/nlemoine/wp-cli-move/releases/tag/0.1.3) - 5 months ago · [📦 1.7K downloads](https://packagist.org/packages/n5s/wp-cli-move/stats)) — Sync your WordPress content (database and uploads) between stages using the power of WP-CLI aliases.
+- [wp-cli-fixtures](https://github.com/nlemoine/wp-cli-fixtures) ([v0.5.0](https://github.com/nlemoine/wp-cli-fixtures/releases/tag/0.5.0) - 2 years ago · [📦 14.4K downloads](https://packagist.org/packages/hellonico/wp-cli-fixtures/stats)) — Easily generate custom fake data for WordPress using YAML and WP-CLI
 #### Timber
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 6 months ago · [📦 4.1M downloads](https://packagist.org/packages/timber/timber/stats)) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
-- [rings](https://github.com/timber/rings) ([1.0.0](https://github.com/timber/rings/releases/tag/1.0.0) - 4 days ago · [📦 1 downloads](https://packagist.org/packages/timber/rings/stats)) — Query Monitor panel for Timber: profile your Twig templates and find the template behind any element of the page.
+- [rings](https://github.com/timber/rings) ([1.0.0](https://github.com/timber/rings/releases/tag/1.0.0) - 5 days ago · [📦 1 downloads](https://packagist.org/packages/timber/rings/stats)) — Query Monitor panel for Timber: profile your Twig templates and find the template behind any element of the page.
 - [timber-weblink-extension](https://github.com/nlemoine/timber-weblink-extension) ([2.0.0](https://github.com/nlemoine/timber-weblink-extension/releases/tag/2.0.0) - 2 weeks ago · [📦 19 downloads](https://packagist.org/packages/n5s/timber-weblink-extension/stats)) — Symfony WebLink for Timber: preload(), preconnect() and other Twig functions that send resource hints in a Link HTTP header.
-- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 2 months ago · [📦 78K downloads](https://packagist.org/packages/timber/wp-i18n-twig/stats)) — WordPress translations extraction for Twig files with WP-CLI
-- [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 7 months ago · [📦 245.9K downloads](https://packagist.org/packages/hellonico/timber-dump-extension/stats)) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
+- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 2 months ago · [📦 78.3K downloads](https://packagist.org/packages/timber/wp-i18n-twig/stats)) — WordPress translations extraction for Twig files with WP-CLI
+- [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 7 months ago · [📦 246.3K downloads](https://packagist.org/packages/hellonico/timber-dump-extension/stats)) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 #### PHP
-- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([2.0.2](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.2) - 6 days ago · [📦 2K downloads](https://packagist.org/packages/n5s/dtcg-tokens/stats)) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
-- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 5 months ago · [📦 18.9K downloads](https://packagist.org/packages/n5s/http-cli/stats)) — Serverless HTTP client - make requests to PHP scripts on the command line
-- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 6 months ago · [📦 164 downloads](https://packagist.org/packages/n5s/rangelog/stats)) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
+- [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([2.0.2](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.2) - 1 week ago · [📦 2K downloads](https://packagist.org/packages/n5s/dtcg-tokens/stats)) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
+- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 5 months ago · [📦 19K downloads](https://packagist.org/packages/n5s/http-cli/stats)) — Serverless HTTP client - make requests to PHP scripts on the command line
+- [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 6 months ago · [📦 194 downloads](https://packagist.org/packages/n5s/rangelog/stats)) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 #### JavaScript/TypeScript
 - [transmit-2-ssh-config](https://github.com/nlemoine/transmit-2-ssh-config) ([v3.0.2](https://github.com/nlemoine/transmit-2-ssh-config/releases/tag/v3.0.2) - 2 months ago) — Sync your Transmit SFTP favorites with your ssh config file
@@ -42,11 +42,11 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🔨 My recent pull requests
 
-- [docs: remove the helpful links written for Timber 1](https://github.com/timber/timber/pull/3326) on [timber/timber](https://github.com/timber/timber) — 2 days ago
-- [docs: point to Awesome Timber for related projects](https://github.com/timber/timber/pull/3325) on [timber/timber](https://github.com/timber/timber) — 2 days ago
-- [docs: add Timber Rings to the related and official projects](https://github.com/timber/timber/pull/3324) on [timber/timber](https://github.com/timber/timber) — 4 days ago
-- [ci: Keep ECS on its PHP engine so the JSON report stays parseable](https://github.com/timber/timber/pull/3323) on [timber/timber](https://github.com/timber/timber) — 4 days ago
-- [fix(deps): require ozdemirburak/iris ^5.0](https://github.com/nlemoine/dtcg-tokens/pull/9) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 6 days ago
+- [docs: remove the helpful links written for Timber 1](https://github.com/timber/timber/pull/3326) on [timber/timber](https://github.com/timber/timber) — 3 days ago
+- [docs: point to Awesome Timber for related projects](https://github.com/timber/timber/pull/3325) on [timber/timber](https://github.com/timber/timber) — 3 days ago
+- [docs: add Timber Rings to the related and official projects](https://github.com/timber/timber/pull/3324) on [timber/timber](https://github.com/timber/timber) — 5 days ago
+- [ci: Keep ECS on its PHP engine so the JSON report stays parseable](https://github.com/timber/timber/pull/3323) on [timber/timber](https://github.com/timber/timber) — 5 days ago
+- [fix(deps): require ozdemirburak/iris ^5.0](https://github.com/nlemoine/dtcg-tokens/pull/9) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 1 week ago
 - [chore: fix the QA drift and drop the v from release names](https://github.com/nlemoine/http-cli/pull/7) on [nlemoine/http-cli](https://github.com/nlemoine/http-cli) — 2 weeks ago
 - [feat: Reuse one Twig environment across renders behind an opt-in filter](https://github.com/timber/timber/pull/3320) on [timber/timber](https://github.com/timber/timber) — 2 weeks ago
 - [ci: name releases without the v prefix, like their tags](https://github.com/nlemoine/rangelog/pull/7) on [nlemoine/rangelog](https://github.com/nlemoine/rangelog) — 2 weeks ago
@@ -59,11 +59,11 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [test: count the coverage of the front-end requests](https://github.com/nlemoine/timber-weblink-extension/pull/3) on [nlemoine/timber-weblink-extension](https://github.com/nlemoine/timber-weblink-extension) — 2 weeks ago
 
 ### 🤝 Recent contributions
-- [timber/timber](https://github.com/timber/timber) — [81 commits](https://github.com/timber/timber/commits?author=nlemoine) — 22 hours ago
-- [timber/awesome-timber](https://github.com/timber/awesome-timber) — [4 commits](https://github.com/timber/awesome-timber/commits?author=nlemoine) — 2 days ago
-- [timber/rings](https://github.com/timber/rings) — [13 commits](https://github.com/timber/rings/commits?author=nlemoine) — 4 days ago
-- [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — [7 commits](https://github.com/Art4/WP-Requests-PSR18-Adapter/commits?author=nlemoine) — 2 weeks ago
-- [humanmade/authorship](https://github.com/humanmade/authorship) — [12 commits](https://github.com/humanmade/authorship/commits?author=nlemoine) — 4 weeks ago
+- [timber/timber](https://github.com/timber/timber) — [82 commits](https://github.com/timber/timber/commits?author=nlemoine) — 22 hours ago
+- [timber/awesome-timber](https://github.com/timber/awesome-timber) — [4 commits](https://github.com/timber/awesome-timber/commits?author=nlemoine) — 3 days ago
+- [timber/rings](https://github.com/timber/rings) — [13 commits](https://github.com/timber/rings/commits?author=nlemoine) — 5 days ago
+- [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — [7 commits](https://github.com/Art4/WP-Requests-PSR18-Adapter/commits?author=nlemoine) — 3 weeks ago
+- [humanmade/authorship](https://github.com/humanmade/authorship) — [12 commits](https://github.com/humanmade/authorship/commits?author=nlemoine) — 1 month ago
 - [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) — [2 commits](https://github.com/darylldoyle/svg-sanitizer/commits?author=nlemoine) — 1 month ago
 - [Intervention/image-driver-vips](https://github.com/Intervention/image-driver-vips) — [34 commits](https://github.com/Intervention/image-driver-vips/commits?author=nlemoine) — 1 month ago
 - [Intervention/image](https://github.com/Intervention/image) — [11 commits](https://github.com/Intervention/image/commits?author=nlemoine) — 1 month ago
@@ -72,7 +72,7 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — [3 commits](https://github.com/EasyCorp/EasyAdminBundle/commits?author=nlemoine) — 3 months ago
 - [MilliPress/MilliCache](https://github.com/MilliPress/MilliCache) — [2 commits](https://github.com/MilliPress/MilliCache/commits?author=nlemoine) — 5 months ago
 - [alleyinteractive/mantle-framework](https://github.com/alleyinteractive/mantle-framework) — [2 commits](https://github.com/alleyinteractive/mantle-framework/commits?author=nlemoine) — 5 months ago
-- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine) — 5 months ago
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine) — 6 months ago
 - [mindkomm/timmy](https://github.com/mindkomm/timmy) — [1 commit](https://github.com/mindkomm/timmy/commits?author=nlemoine) — 6 months ago
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — [1 commit](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine) — 7 months ago
 - [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine) — 7 months ago
@@ -81,10 +81,10 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🤩 Notable contributions
 
-- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31446 · [1 commit](https://github.com/symfony/symfony/commits?author=nlemoine)
-- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18989 · [1 commit](https://github.com/unocss/unocss/commits?author=nlemoine)
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15944 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14389 · [11 commits](https://github.com/Intervention/image/commits?author=nlemoine)
+- [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31445 · [1 commit](https://github.com/symfony/symfony/commits?author=nlemoine)
+- [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18991 · [1 commit](https://github.com/unocss/unocss/commits?author=nlemoine)
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15943 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14390 · [11 commits](https://github.com/Intervention/image/commits?author=nlemoine)
 - [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11125 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8380 · [1 commit](https://github.com/twigphp/Twig/commits?author=nlemoine)
 - [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4469 · [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine)
@@ -102,4 +102,4 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 643 · [10 commits](https://github.com/darrenjacoby/intervention/commits?author=nlemoine)
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 601 · [2 commits](https://github.com/spatie/http-status-check/commits?author=nlemoine)
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-11-18</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-11-19</sub>
