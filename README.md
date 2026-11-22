@@ -23,11 +23,11 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [timber](https://github.com/timber/timber) ([v2.5.1](https://github.com/timber/timber/releases/tag/v2.5.1) - 6 months ago · [📦 4.2M downloads](https://packagist.org/packages/timber/timber/stats)) — Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [rings](https://github.com/timber/rings) ([1.0.0](https://github.com/timber/rings/releases/tag/1.0.0) - 1 week ago · [📦 1 downloads](https://packagist.org/packages/timber/rings/stats)) — Query Monitor panel for Timber: profile your Twig templates and find the template behind any element of the page.
 - [timber-weblink-extension](https://github.com/nlemoine/timber-weblink-extension) ([2.0.0](https://github.com/nlemoine/timber-weblink-extension/releases/tag/2.0.0) - 2 weeks ago · [📦 24 downloads](https://packagist.org/packages/n5s/timber-weblink-extension/stats)) — Symfony WebLink for Timber: preload(), preconnect() and other Twig functions that send resource hints in a Link HTTP header.
-- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 2 months ago · [📦 78.7K downloads](https://packagist.org/packages/timber/wp-i18n-twig/stats)) — WordPress translations extraction for Twig files with WP-CLI
-- [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 7 months ago · [📦 246.9K downloads](https://packagist.org/packages/hellonico/timber-dump-extension/stats)) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
+- [wp-i18n-twig](https://github.com/timber/wp-i18n-twig) ([v1.1.1](https://github.com/timber/wp-i18n-twig/releases/tag/v1.1.1) - 2 months ago · [📦 78.8K downloads](https://packagist.org/packages/timber/wp-i18n-twig/stats)) — WordPress translations extraction for Twig files with WP-CLI
+- [timber-dump-extension](https://github.com/nlemoine/timber-dump-extension) ([v3.0.0](https://github.com/nlemoine/timber-dump-extension/releases/tag/v3.0.0) - 7 months ago · [📦 247K downloads](https://packagist.org/packages/hellonico/timber-dump-extension/stats)) — Symfony VarDumper for Timber — adds a nicer {{ dump() }} to your WordPress Twig templates.
 #### PHP
 - [dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) ([2.0.2](https://github.com/nlemoine/dtcg-tokens/releases/tag/2.0.2) - 1 week ago · [📦 2K downloads](https://packagist.org/packages/n5s/dtcg-tokens/stats)) — Read, resolve, and render DTCG design tokens at runtime in PHP, with optional Twig and Symfony bridges.
-- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 5 months ago · [📦 19.1K downloads](https://packagist.org/packages/n5s/http-cli/stats)) — Serverless HTTP client - make requests to PHP scripts on the command line
+- [http-cli](https://github.com/nlemoine/http-cli) ([v1.1.1](https://github.com/nlemoine/http-cli/releases/tag/1.1.1) - 5 months ago · [📦 19.2K downloads](https://packagist.org/packages/n5s/http-cli/stats)) — Serverless HTTP client - make requests to PHP scripts on the command line
 - [rangelog](https://github.com/nlemoine/rangelog) ([v1.1.1](https://github.com/nlemoine/rangelog/releases/tag/1.1.1) - 6 months ago · [📦 194 downloads](https://packagist.org/packages/n5s/rangelog/stats)) — Rangelog — resolve and parse changelog notes for any package across GitHub, WordPress.org, GitLab, and in-repo sources, over a `(from, to)` version range.
 - [local-bin-monorepo](https://github.com/nlemoine/local-bin-monorepo) ([v1.1.3](https://github.com/nlemoine/local-bin-monorepo/releases/tag/1.1.3) - 2 years ago) — Image optimization & compression binaries (mozjpeg, optipng, cwebp, gifsicle, brotli…) as Composer packages — a PHP port of imagemin's *-bin.
 #### JavaScript/TypeScript
@@ -42,8 +42,8 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 ### 🔨 My recent pull requests
 
-- [docs: remove the helpful links written for Timber 1](https://github.com/timber/timber/pull/3326) on [timber/timber](https://github.com/timber/timber) — 5 days ago
-- [docs: point to Awesome Timber for related projects](https://github.com/timber/timber/pull/3325) on [timber/timber](https://github.com/timber/timber) — 5 days ago
+- [docs: remove the helpful links written for Timber 1](https://github.com/timber/timber/pull/3326) on [timber/timber](https://github.com/timber/timber) — 6 days ago
+- [docs: point to Awesome Timber for related projects](https://github.com/timber/timber/pull/3325) on [timber/timber](https://github.com/timber/timber) — 6 days ago
 - [docs: add Timber Rings to the related and official projects](https://github.com/timber/timber/pull/3324) on [timber/timber](https://github.com/timber/timber) — 1 week ago
 - [ci: Keep ECS on its PHP engine so the JSON report stays parseable](https://github.com/timber/timber/pull/3323) on [timber/timber](https://github.com/timber/timber) — 1 week ago
 - [fix(deps): require ozdemirburak/iris ^5.0](https://github.com/nlemoine/dtcg-tokens/pull/9) on [nlemoine/dtcg-tokens](https://github.com/nlemoine/dtcg-tokens) — 1 week ago
@@ -59,8 +59,8 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [test: count the coverage of the front-end requests](https://github.com/nlemoine/timber-weblink-extension/pull/3) on [nlemoine/timber-weblink-extension](https://github.com/nlemoine/timber-weblink-extension) — 2 weeks ago
 
 ### 🤝 Recent contributions
-- [timber/timber](https://github.com/timber/timber) — [82 commits](https://github.com/timber/timber/commits?author=nlemoine) — 3 days ago
-- [timber/awesome-timber](https://github.com/timber/awesome-timber) — [4 commits](https://github.com/timber/awesome-timber/commits?author=nlemoine) — 5 days ago
+- [timber/timber](https://github.com/timber/timber) — [82 commits](https://github.com/timber/timber/commits?author=nlemoine) — 4 days ago
+- [timber/awesome-timber](https://github.com/timber/awesome-timber) — [4 commits](https://github.com/timber/awesome-timber/commits?author=nlemoine) — 6 days ago
 - [timber/rings](https://github.com/timber/rings) — [13 commits](https://github.com/timber/rings/commits?author=nlemoine) — 1 week ago
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) — [7 commits](https://github.com/Art4/WP-Requests-PSR18-Adapter/commits?author=nlemoine) — 3 weeks ago
 - [humanmade/authorship](https://github.com/humanmade/authorship) — [12 commits](https://github.com/humanmade/authorship/commits?author=nlemoine) — 1 month ago
@@ -83,11 +83,11 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 
 - [symfony/symfony](https://github.com/symfony/symfony) — ⭐ 31457 · [1 commit](https://github.com/symfony/symfony/commits?author=nlemoine)
 - [unocss/unocss](https://github.com/unocss/unocss) — ⭐ 18995 · [1 commit](https://github.com/unocss/unocss/commits?author=nlemoine)
-- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15944 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
-- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14391 · [11 commits](https://github.com/Intervention/image/commits?author=nlemoine)
-- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11124 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
+- [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) — ⭐ 15943 · [3 commits](https://github.com/rjsf-team/react-jsonschema-form/commits?author=nlemoine)
+- [Intervention/image](https://github.com/Intervention/image) — ⭐ 14393 · [11 commits](https://github.com/Intervention/image/commits?author=nlemoine)
+- [deployphp/deployer](https://github.com/deployphp/deployer) — ⭐ 11126 · [1 commit](https://github.com/deployphp/deployer/commits?author=nlemoine)
 - [twigphp/Twig](https://github.com/twigphp/Twig) — ⭐ 8380 · [1 commit](https://github.com/twigphp/Twig/commits?author=nlemoine)
-- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4469 · [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine)
+- [php-imagine/Imagine](https://github.com/php-imagine/Imagine) — ⭐ 4470 · [4 commits](https://github.com/php-imagine/Imagine/commits?author=nlemoine)
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) — ⭐ 4306 · [3 commits](https://github.com/EasyCorp/EasyAdminBundle/commits?author=nlemoine)
 - [thephpleague/glide](https://github.com/thephpleague/glide) — ⭐ 2630 · [2 commits](https://github.com/thephpleague/glide/commits?author=nlemoine)
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) — ⭐ 2322 · [1 commit](https://github.com/symfony/symfony-docs/commits?author=nlemoine)
@@ -97,9 +97,9 @@ I joined the awesome [Timber](https://github.com/timber/timber) team as a mainta
 - [Munter/subfont](https://github.com/Munter/subfont) — ⭐ 1637 · [1 commit](https://github.com/Munter/subfont/commits?author=nlemoine)
 - [spatie/image](https://github.com/spatie/image) — ⭐ 1366 · [2 commits](https://github.com/spatie/image/commits?author=nlemoine)
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) — ⭐ 1025 · [2 commits](https://github.com/johnbillion/extended-cpts/commits?author=nlemoine)
-- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 1019 · [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine)
-- [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 946 · [1 commit](https://github.com/MyIntervals/emogrifier/commits?author=nlemoine)
+- [janreges/siteone-crawler](https://github.com/janreges/siteone-crawler) — ⭐ 1020 · [1 commit](https://github.com/janreges/siteone-crawler/commits?author=nlemoine)
+- [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) — ⭐ 947 · [1 commit](https://github.com/MyIntervals/emogrifier/commits?author=nlemoine)
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) — ⭐ 640 · [10 commits](https://github.com/darrenjacoby/intervention/commits?author=nlemoine)
 - [spatie/http-status-check](https://github.com/spatie/http-status-check) — ⭐ 600 · [2 commits](https://github.com/spatie/http-status-check/commits?author=nlemoine)
 
-<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-11-21</sub>
+<sub>Auto-generated with <a href="https://github.com/nlemoine/packages/tree/main/packages/octofolio">octofolio</a> · last updated 2026-11-22</sub>
